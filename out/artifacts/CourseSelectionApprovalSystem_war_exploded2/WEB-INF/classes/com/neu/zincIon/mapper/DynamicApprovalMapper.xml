@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--这里要把https改成http下面写sql语句时才有代码提示，不知道为啥。。。-->
+
+<!--namespace绑定一个指定的Dao/Mapper接口，一定要对应名称-->
+<mapper namespace="com.neu.zincIon.mapper.DynamicApprovalMapper">
+    <!--    Dynamic Approval-->
+    <select id="selectLTuidNameListByCourseName" parameterType="String" resultType="String">
+        select tuid from java_login.tb_da_lt where courseName=#{courseName}
+    </select>
+
+    <select id="selectSTuidNameListByCourseName" parameterType="String" resultType="String">
+        select tuid from java_login.tb_da_st where courseName=#{courseName}
+    </select>
+
+    <insert id="addLTuid" parameterType="map">
+        insert into  java_login.tb_da_lt(courseName, tuid) value(#{courseName},#{ltuid})
+    </insert>
+
+    <insert id="addSTuid" parameterType="map">
+        insert into  java_login.tb_da_st(courseName, tuid) value(#{courseName},#{stuid})
+    </insert>
+
+    <delete id="deleteLTuid" parameterType="map">
+        delete from java_login.tb_da_lt where courseName=#{courseName} and tuid=#{ltuid}
+    </delete>
+
+    <delete id="deleteSTuid" parameterType="map">
+        delete from java_login.tb_da_st where courseName=#{courseName} and tuid=#{stuid}
+    </delete>
+
+    <select id="getDALTListByCourseName" parameterType="String" resultType="da">
+        select * from java_login.tb_da_lt where courseName=#{courseName}
+    </select>
+
+    <select id="getDASTListByCourseName" parameterType="String" resultType="da">
+        select * from java_login.tb_da_st where courseName=#{courseName}
+    </select>
+
+
+
+
+</mapper>

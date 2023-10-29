@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CourseSelectionApprovalSystem:war exploded2" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="792403ca-40c3-4755-be1e-e3c9eadeaf09" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Maven_javaweb\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\apache-maven-3.8.8\maven-repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Maven/apache-maven-3.8.8" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.8.8\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2O8Sa3C5s81LlDkAeqWPzD3oPor" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/gitRepository/CourseSelectionApprovalSystem&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.build.tools.auto.reload&quot;: &quot;ALL&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect&quot;: [
+      &quot;MySQL&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaexercises\ideaprojects\Maven_javaweb\src\main\webapp\css" />
+      <recent name="D:\javaexercises\ideaprojects\Maven_javaweb\src\main\webapp\static" />
+      <recent name="D:\javaexercises\ideaprojects\Maven_javaweb\src\test\java" />
+      <recent name="D:\javaexercises\ideaprojects\Maven_javaweb\src\main\webapp\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaexercises\ideaprojects\Maven_javaweb\src\main\webapp\static\bootstrap-paginator\js" />
+      <recent name="D:\javaexercises\ideaprojects\Maven_javaweb\src\main\webapp\static\bootstrap-3.4.1-dist\css" />
+      <recent name="D:\javaexercises\ideaprojects\Maven_javaweb\src\main\webapp\picture" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.neu.zincIon" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.45">
+    <configuration name="UserMapperTest.addUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_javaweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neu.zincIon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.neu.zincIon" />
+      <option name="MAIN_CLASS_NAME" value="com.neu.zincIon.UserMapperTest" />
+      <option name="METHOD_NAME" value="addUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.deleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_javaweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neu.zincIon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.neu.zincIon" />
+      <option name="MAIN_CLASS_NAME" value="com.neu.zincIon.UserMapperTest" />
+      <option name="METHOD_NAME" value="deleteUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.getApprovalListByPageHelper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_javaweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neu.zincIon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.neu.zincIon" />
+      <option name="MAIN_CLASS_NAME" value="com.neu.zincIon.UserMapperTest" />
+      <option name="METHOD_NAME" value="getApprovalListByPageHelper" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.getUserTestById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_javaweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neu.zincIon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.neu.zincIon" />
+      <option name="MAIN_CLASS_NAME" value="com.neu.zincIon.UserMapperTest" />
+      <option name="METHOD_NAME" value="getUserTestById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.selectApprovalBySuidLike" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_javaweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neu.zincIon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.neu.zincIon" />
+      <option name="MAIN_CLASS_NAME" value="com.neu.zincIon.UserMapperTest" />
+      <option name="METHOD_NAME" value="selectApprovalBySuidLike" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.45" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.45" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ZincIon/login.jsp" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="CourseSelectionApprovalSystem:war exploded2">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ZincIon" />
+          </settings>
+        </artifact>
+        <file path="$PROJECT_DIR$/src/main/webapp/img">
+          <settings>
+            <option name="CONTEXT_PATH" value="/img" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="a1f4b203-f178-4b20-a9f3-090f110f89f4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57274" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="CourseSelectionApprovalSystem:war exploded2" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UserMapperTest.selectApprovalBySuidLike" />
+      <item itemvalue="JUnit.UserMapperTest.getApprovalListByPageHelper" />
+      <item itemvalue="JUnit.UserMapperTest.addUser" />
+      <item itemvalue="JUnit.UserMapperTest.deleteUser" />
+      <item itemvalue="JUnit.UserMapperTest.getUserTestById" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.45" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserMapperTest.getUserTestById" />
+        <item itemvalue="JUnit.UserMapperTest.selectApprovalBySuidLike" />
+        <item itemvalue="JUnit.UserMapperTest.getApprovalListByPageHelper" />
+        <item itemvalue="JUnit.UserMapperTest.addUser" />
+        <item itemvalue="JUnit.UserMapperTest.deleteUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="792403ca-40c3-4755-be1e-e3c9eadeaf09" name="Changes" comment="" />
+      <created>1680940776539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680940776539</updated>
+      <workItem from="1680940778097" duration="4403000" />
+      <workItem from="1680949842869" duration="10641000" />
+      <workItem from="1681019915460" duration="1708000" />
+      <workItem from="1681023117593" duration="298000" />
+      <workItem from="1681026100563" duration="640000" />
+      <workItem from="1681537928341" duration="11608000" />
+      <workItem from="1681566572960" duration="4898000" />
+      <workItem from="1681624764538" duration="8698000" />
+      <workItem from="1681647231817" duration="1373000" />
+      <workItem from="1681800456729" duration="13000" />
+      <workItem from="1682142564807" duration="10663000" />
+      <workItem from="1682230841746" duration="4650000" />
+      <workItem from="1682235666134" duration="1200000" />
+      <workItem from="1682237900572" duration="99000" />
+      <workItem from="1682238019027" duration="33000" />
+      <workItem from="1682856921226" duration="8929000" />
+      <workItem from="1682922454186" duration="22503000" />
+      <workItem from="1683004835139" duration="31011000" />
+      <workItem from="1683040253880" duration="54000" />
+      <workItem from="1683040400806" duration="60000" />
+      <workItem from="1683095415945" duration="16344000" />
+      <workItem from="1683175456664" duration="2364000" />
+      <workItem from="1683198570348" duration="162000" />
+      <workItem from="1683201064767" duration="12545000" />
+      <workItem from="1683248692268" duration="3940000" />
+      <workItem from="1683292484279" duration="2345000" />
+      <workItem from="1683354308930" duration="10675000" />
+      <workItem from="1683368151613" duration="10062000" />
+      <workItem from="1683463329327" duration="5363000" />
+      <workItem from="1683618273256" duration="776000" />
+      <workItem from="1683634648754" duration="2589000" />
+      <workItem from="1683777412342" duration="29500000" />
+      <workItem from="1683859441948" duration="8705000" />
+      <workItem from="1683876189975" duration="5000" />
+      <workItem from="1683948138545" duration="7899000" />
+      <workItem from="1683981350901" duration="4628000" />
+      <workItem from="1684048746239" duration="8938000" />
+      <workItem from="1684059560670" duration="327000" />
+      <workItem from="1684141170663" duration="8498000" />
+      <workItem from="1684233371497" duration="11000" />
+      <workItem from="1684295089521" duration="2725000" />
+      <workItem from="1684303082222" duration="8181000" />
+      <workItem from="1684320069266" duration="6189000" />
+      <workItem from="1684326306113" duration="41000" />
+      <workItem from="1684413979897" duration="4760000" />
+      <workItem from="1684418760408" duration="282000" />
+      <workItem from="1684458989479" duration="2947000" />
+      <workItem from="1684463916842" duration="5883000" />
+      <workItem from="1684499248452" duration="2648000" />
+      <workItem from="1684549650426" duration="3009000" />
+      <workItem from="1684640079707" duration="18937000" />
+      <workItem from="1684743434797" duration="21361000" />
+      <workItem from="1684848772842" duration="628000" />
+      <workItem from="1684981415855" duration="5839000" />
+      <workItem from="1684992552248" duration="82000" />
+      <workItem from="1684999876298" duration="758000" />
+      <workItem from="1685015531626" duration="6690000" />
+      <workItem from="1685023511779" duration="1126000" />
+      <workItem from="1685068126447" duration="6449000" />
+      <workItem from="1685098506815" duration="5527000" />
+      <workItem from="1685163182320" duration="13194000" />
+      <workItem from="1685200242932" duration="2291000" />
+      <workItem from="1685236562520" duration="6338000" />
+      <workItem from="1685248282226" duration="639000" />
+      <workItem from="1685249582365" duration="596000" />
+      <workItem from="1685252655561" duration="9764000" />
+      <workItem from="1685348260519" duration="79000" />
+      <workItem from="1685348460985" duration="652000" />
+      <workItem from="1685448546049" duration="444000" />
+      <workItem from="1685603913092" duration="667000" />
+      <workItem from="1685617494503" duration="157000" />
+      <workItem from="1685617896373" duration="492000" />
+      <workItem from="1685618535158" duration="56000" />
+      <workItem from="1685623148841" duration="809000" />
+      <workItem from="1686189400904" duration="23000" />
+      <workItem from="1686212115972" duration="724000" />
+      <workItem from="1687774153935" duration="61000" />
+      <workItem from="1693300757076" duration="866000" />
+      <workItem from="1698481118033" duration="1581000" />
+      <workItem from="1698560129643" duration="831000" />
+      <workItem from="1698560994454" duration="185000" />
+    </task>
+    <task id="LOCAL-00001" summary="大二下web大作业&#10;审批流系统">
+      <created>1693301351663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693301351663</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="大二下web大作业&#10;审批流系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="大二下web大作业&#10;审批流系统" />
+  </component>
+</project>

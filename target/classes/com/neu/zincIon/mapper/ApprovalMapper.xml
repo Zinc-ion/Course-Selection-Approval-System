@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--这里要把https改成http下面写sql语句时才有代码提示，不知道为啥。。。-->
+
+<!--namespace绑定一个指定的Dao/Mapper接口，一定要对应名称-->
+<mapper namespace="com.neu.zincIon.mapper.ApprovalMapper">
+
+    <select id="getApprovalList" resultType="approval">
+        select * from java_login.tb_approval
+    </select>
+
+    <select id="getApprovalRecordList" resultType="approval">
+        select * from java_login.tb_approval where state = '结束-审批成功' or state = '结束-申请驳回' or state = '审批成功' or state = '申请驳回'
+    </select>
+
+    <select id="getAGApprovalRecordList" resultType="approval">
+        select * from java_login.tb_approval where state = '结束-审批成功'  or state = '审批成功'
+    </select>
+
+    <select id="getApprovalById" parameterType="map" resultType="approval">
+        select * from java_login.tb_approval
+        where suid=#{suid} and courseName=#{courseName}
+    </select>
+
+    <insert id="addApproval" parameterType="approval" >
+        insert into java_login.tb_approval(suid,courseName,cause,proof,rejection_reason,state) value(#{suid},#{courseName},#{cause},#{proof},#{rejection_reason},#{state})
+    </insert>
+
+    <delete id="deleteApprovalById" parameterType="map">
+        delete from java_login.tb_approval where suid=#{suid} and courseName=#{courseName}
+    </delete>
+
+    <update id="updateApproval" parameterType="approval">
+        update java_login.tb_approval
+        set cause=#{cause},proof=#{proof},rejection_reason=#{rejection_reason},state=#{state},lt=#{lt},st=#{st},rjlt=#{rjlt},rjst=#{rjst}
+        where suid=#{suid} and courseName=#{courseName}
+    </update>
+
+    <select id="selectApprovalBySuid" parameterType="String" resultType="approval">
+        select * from java_login.tb_approval where suid=#{suid}
+    </select>
+
+    <select id="selectAVApprovalBySuid" parameterType="String" resultType="approval">
+        select * from java_login.tb_approval where suid=#{suid} and state != '结束-审批成功' and state != '结束-申请驳回'
+    </select>
+
+    <select id="selectAVApprovalBySuidLike" parameterType="map" resultType="approval">
+        select * from java_login.tb_approval where suid=#{suid} and state != '结束-审批成功' and state != '结束-申请驳回' and state like concat('%',#{stateQuery},'%')
+    </select>
+
+    <select id="selectCAGApprovalListBySuid" parameterType="String" resultType="approval">
+        select * from java_login.tb_approval where suid=#{suid} and state = '结束-审批成功'
+    </select>
+
+    <select id="selectCAGApprovalListBySuidLike" parameterType="map" resultType="approval">
+        select * from java_login.tb_approval where suid=#{suid} and state = '结束-审批成功' and state like concat('%',#{stateQuery},'%')
+    </select>
+
+    <select id="selectCRJApprovalListBySuid" parameterType="String" resultType="approval">
+        select * from java_login.tb_approval where suid=#{suid} and state = '结束-申请驳回'
+    </select>
+
+    <select id="selectCRJApprovalListBySuidLike" parameterType="map" resultType="approval">
+        select * from java_login.tb_approval where suid=#{suid} and state = '结束-申请驳回' and state like concat('%',#{stateQuery},'%')
+    </select>
+
+
+
+    <select id="getApproval" parameterType="map" resultType="approval">
+        select * from java_login.tb_approval where suid=#{suid} and courseName = #{courseName}
+    </select>
+
+<!--  主讲教师  -->
+<!--    //申请已提交、课程主讲教师审批中、课程主管教师审批中、审批成功、申请驳回。-->
+    <select id="selectApprovalNameByLTuid" parameterType="String" resultType="String">
+        select concat(suid,' ',courseName) from java_login.tb_approval natural join java_login.tb_course where ltuid=#{ltuid} and (state = '申请已提交' or state = '课程主讲教师审批中')
+    </select>
+
+    <select id="selectApprovalByLTuid" parameterType="String" resultType="approval">
+        select suid,a.courseName,cause,proof,rejection_reason,state,lt,st,rjlt,rjst
+        from java_login.tb_approval a natural join java_login.tb_course c  left join java_login.tb_da_lt d on c.courseName = d.courseName
+        where (c.ltuid=#{ltuid} or d.tuid=#{ltuid}) and (state = '申请已提交' or state = '课程主讲教师审批中')
+    </select>
+
+    <select id="selectApprovalByLTuidLike" parameterType="map" resultType="approval">
+        select suid,a.courseName,cause,proof,rejection_reason,state,lt,st,rjlt,rjst
+        from java_login.tb_approval a natural join java_login.tb_course c  left join java_login.tb_da_lt d on c.courseName = d.courseName
+        where (c.ltuid=#{ltuid} or d.tuid=#{ltuid}) and (state = '申请已提交' or state = '课程主讲教师审批中') and (suid like concat('%',#{suidQuery},'%') or isnull(#{suidQuery})) and (a.courseName like concat('%',#{courseQuery},'%') or isnull(#{courseQuery})) and (state like concat('%',#{stateQuery},'%') or isnull(#{stateQuery}))
+    </select>
+
+
+    <select id="selectPastAgApByLTuid" parameterType="String" resultType="approval">
+        select suid,a.courseName,cause,proof,rejection_reason,state,lt,st,rjlt,rjst
+        from java_login.tb_approval a natural join java_login.tb_course c  left join java_login.tb_da_lt d on c.courseName = d.courseName
+        where (c.ltuid=#{ltuid} or d.tuid=#{ltuid}) and (state='审批成功' or state='课程主管教师审批中' or (d.tuid=#{ltuid} and state='课程主讲教师审批中') or state='结束-审批成功' or ((state = '申请驳回' or state = '结束-申请驳回') and (SUBSTRING_INDEX(rejection_reason,' ',1) = '主管教师' or (d.tuid=#{ltuid} and SUBSTRING_INDEX(rejection_reason,' ',1) = '主讲教师'))) )
+    </select>
+
+    <select id="selectPastAgApByLTuidLike" parameterType="map" resultType="approval">
+        select suid,a.courseName,cause,proof,rejection_reason,state,lt,st,rjlt,rjst
+        from java_login.tb_approval a natural join java_login.tb_course c  left join java_login.tb_da_lt d on c.courseName = d.courseName
+        where (c.ltuid=#{ltuid} or d.tuid=#{ltuid}) and (state='审批成功' or state='课程主管教师审批中' or (d.tuid=#{ltuid} and state='课程主讲教师审批中') or state='结束-审批成功' or ((state = '申请驳回' or state = '结束-申请驳回') and (SUBSTRING_INDEX(rejection_reason,' ',1) = '主管教师' or (d.tuid=#{ltuid} and SUBSTRING_INDEX(rejection_reason,' ',1) = '主讲教师'))) ) and (suid like concat('%',#{suidQuery},'%') or isnull(#{suidQuery})) and (a.courseName like concat('%',#{courseQuery},'%') or isnull(#{courseQuery})) and (state like concat('%',#{stateQuery},'%') or isnull(#{stateQuery}))
+    </select>
+
+
+    <select id="selectPastRjApByLTuid" parameterType="String" resultType="approval">
+        select suid,a.courseName,cause,proof,rejection_reason,state,lt,st,rjlt,rjst
+        from java_login.tb_approval a natural join java_login.tb_course c  left join java_login.tb_da_lt d on c.courseName = d.courseName
+        where (c.ltuid=#{ltuid} or d.tuid=#{ltuid}) and (state = '申请驳回' or state = '结束-申请驳回') and SUBSTRING_INDEX(rejection_reason,' ',1) = '主讲教师'
+    </select>
+
+    <select id="selectPastRjApByLTuidLike" parameterType="map" resultType="approval">
+        select suid,a.courseName,cause,proof,rejection_reason,state,lt,st,rjlt,rjst
+        from java_login.tb_approval a natural join java_login.tb_course c  left join java_login.tb_da_lt d on c.courseName = d.courseName
+        where (c.ltuid=#{ltuid} or d.tuid=#{ltuid}) and (state = '申请驳回' or state = '结束-申请驳回') and SUBSTRING_INDEX(rejection_reason,' ',1) = '主讲教师' and (suid like concat('%',#{suidQuery},'%') or isnull(#{suidQuery})) and (a.courseName like concat('%',#{courseQuery},'%') or isnull(#{courseQuery})) and (state like concat('%',#{stateQuery},'%') or isnull(#{stateQuery}))
+    </select>
+
+
+
+<!--  主管教师  -->
+    <select id="selectApprovalNameBySTuid" parameterType="String" resultType="String">
+        select concat(suid,' ',courseName) from java_login.tb_approval natural join java_login.tb_course where stuid=#{stuid} and (state ='课程主管教师审批中')
+    </select>
+
+    <select id="selectApprovalBySTuid" parameterType="String" resultType="approval">
+        select suid,a.courseName,cause,proof,rejection_reason,state,lt,st,rjlt,rjst
+        from java_login.tb_approval a natural join java_login.tb_course c  left join java_login.tb_da_st d on c.courseName = d.courseName
+        where (c.stuid=#{stuid} or d.tuid=#{stuid}) and (state = '课程主管教师审批中')
+    </select>
+
+    <select id="selectApprovalBySTuidLike" parameterType="map" resultType="approval">
+        select suid,a.courseName,cause,proof,rejection_reason,state,lt,st,rjlt,rjst
+        from java_login.tb_approval a natural join java_login.tb_course c  left join java_login.tb_da_st d on c.courseName = d.courseName
+        where (c.stuid=#{stuid} or d.tuid=#{stuid}) and (state = '课程主管教师审批中') and (suid like concat('%',#{suidQuery},'%') or isnull(#{suidQuery})) and (a.courseName like concat('%',#{courseQuery},'%') or isnull(#{courseQuery})) and (state like concat('%',#{stateQuery},'%') or isnull(#{stateQuery}))
+    </select>
+
+
+    <select id="selectPastAgApBySTuid" parameterType="String" resultType="approval">
+        select suid,a.courseName,cause,proof,rejection_reason,state,lt,st,rjlt,rjst
+        from java_login.tb_approval a natural join java_login.tb_course c  left join java_login.tb_da_st d on c.courseName = d.courseName
+        where (c.stuid=#{stuid} or d.tuid=#{stuid}) and (state = '审批成功' or state = '结束-审批成功' or (d.tuid=#{stuid} and (state='课程主管教师审批中' or ((state = '申请驳回' or state = '结束-申请驳回') and SUBSTRING_INDEX(rejection_reason,' ',1) = '主管教师'))))
+    </select>
+
+    <select id="selectPastAgApBySTuidLike" parameterType="map" resultType="approval">
+        select suid,a.courseName,cause,proof,rejection_reason,state,lt,st,rjlt,rjst
+        from java_login.tb_approval a natural join java_login.tb_course c  left join java_login.tb_da_st d on c.courseName = d.courseName
+        where (c.stuid=#{stuid} or d.tuid=#{stuid}) and (state = '审批成功' or state = '结束-审批成功' or (d.tuid=#{stuid} and (state='课程主管教师审批中' or ((state = '申请驳回' or state = '结束-申请驳回') and SUBSTRING_INDEX(rejection_reason,' ',1) = '主管教师')))) and (suid like concat('%',#{suidQuery},'%') or isnull(#{suidQuery})) and (a.courseName like concat('%',#{courseQuery},'%') or isnull(#{courseQuery})) and (state like concat('%',#{stateQuery},'%') or isnull(#{stateQuery}))
+    </select>
+
+
+    <select id="selectPastRjApBySTuid" parameterType="String" resultType="approval">
+        select suid,a.courseName,cause,proof,rejection_reason,state,lt,st,rjlt,rjst
+        from java_login.tb_approval a natural join java_login.tb_course c  left join java_login.tb_da_st d on c.courseName = d.courseName
+        where (c.stuid=#{stuid} or d.tuid=#{stuid}) and (state = '申请驳回' or state = '结束-申请驳回') and SUBSTRING_INDEX(rejection_reason,' ',1) = '主管教师'
+    </select>
+
+    <select id="selectPastRjApBySTuidLike" parameterType="map" resultType="approval">
+        select suid,a.courseName,cause,proof,rejection_reason,state,lt,st,rjlt,rjst
+        from java_login.tb_approval a natural join java_login.tb_course c  left join java_login.tb_da_st d on c.courseName = d.courseName
+        where (c.stuid=#{stuid} or d.tuid=#{stuid}) and (state = '申请驳回' or state = '结束-申请驳回') and SUBSTRING_INDEX(rejection_reason,' ',1) = '主管教师' and (suid like concat('%',#{suidQuery},'%') or isnull(#{suidQuery})) and (a.courseName like concat('%',#{courseQuery},'%') or isnull(#{courseQuery})) and (state like concat('%',#{stateQuery},'%') or isnull(#{stateQuery}))
+    </select>
+
+</mapper>
