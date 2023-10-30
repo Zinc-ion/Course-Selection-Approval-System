@@ -1,0 +1,20 @@
+
+a
+java:S2184g"FCast one of the operands of this multiplication operation to a "long".(Ì ÿÿÿÿÿÿ
+a
+java:S2184i"FCast one of the operands of this multiplication operation to a "long".(ç¯æåûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†”é
+e
+java:S2095—"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(‰–í
+S
+java:S2589~"8Remove this expression which always evaluates to "false"(Ş¶Ğüÿÿÿÿ
+o
+java:S1989@"YHandle the following exception that could be thrown by "uploadParseRequest": IOException.(ÿ¾™ç
+w
+java:S1989H"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ù´×È
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(¨‡ôŸıÿÿÿÿ
+N	java:S106x"9Replace this use of System.out or System.err by a logger.(Ù«©Ê
+N	java:S106"9Replace this use of System.out or System.err by a logger.(öƒ­ä
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(ğÓ›×ùÿÿÿÿ
+B
+java:S1075Œ"&Remove this hard-coded path-delimiter.(Ö£¹Üûÿÿÿÿ

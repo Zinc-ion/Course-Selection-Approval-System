@@ -1,0 +1,18 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†”é
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÈßıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(È®ÖÀÿÿÿÿÿ
+t
+java:S1989#"^Handle the following exception that could be thrown by "encode": UnsupportedEncodingException.(ìŒõ¬
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(À‘ä
+n
+java:S1989)"SHandle the following exception that could be thrown by "sendRedirect": IOException.(î¾ışÿÿÿÿ
+n
+java:S19892"SHandle the following exception that could be thrown by "sendRedirect": IOException.(îš²Ëùÿÿÿÿ
+n
+java:S19897"SHandle the following exception that could be thrown by "sendRedirect": IOException.(Ä¸–Úøÿÿÿÿ
+n
+java:S1989:"SHandle the following exception that could be thrown by "sendRedirect": IOException.(î¾ışÿÿÿÿ
+f
+java:S1989="PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+M	java:S106@"9Replace this use of System.out or System.err by a logger.(œ¾ık

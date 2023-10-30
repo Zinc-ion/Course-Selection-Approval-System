@@ -1,0 +1,56 @@
+
+u
+java:S1192'"_Define a constant instead of duplicating this literal "<script language='javascript'>" 4 times.(ÄµØ
+a
+java:S1192^"FDefine a constant instead of duplicating this literal "UTF-8" 5 times.(ù¦Âşÿÿÿÿ
+Š
+java:S1192)"tDefine a constant instead of duplicating this literal "window.location.href='courseSelect.jsp';</script>')" 3 times.(ª‹…¥
+k	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¾´¤ÿÿÿÿÿ
+]
+java:S2184©"FCast one of the operands of this multiplication operation to a "long".(–¢¹•
+b
+java:S2184«"FCast one of the operands of this multiplication operation to a "long".(ç¯æåûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†”é
+e
+java:S2095İ"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(‰–í
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïû©Öûÿÿÿÿ
+f
+java:S1989'"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ì‘Øóúÿÿÿÿ
+o
+java:S1989O"YHandle the following exception that could be thrown by "uploadParseRequest": IOException.(ÿ¾™ç
+f
+java:S1989R"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(ì‘Øóúÿÿÿÿ
+y
+java:S1989^"^Handle the following exception that could be thrown by "decode": UnsupportedEncodingException.(ù¦Âşÿÿÿÿ
+Y
+java:S1155m">Use isEmpty() to check whether the collection is empty or not.(ö–ÑÒÿÿÿÿÿ
+T
+java:S1155o">Use isEmpty() to check whether the collection is empty or not.(¬Ê‰œ
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(Õ×õƒÿÿÿÿÿ
+f
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+N	java:S106‚"9Replace this use of System.out or System.err by a logger.(à÷‰j
+u
+java:S1989…"^Handle the following exception that could be thrown by "decode": UnsupportedEncodingException.(Ê¹¨¢
+Q	java:S899†";Do something with the "boolean" value returned by "delete".(”ìÏ
+g
+java:S1989ˆ"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(°Ú»øüÿÿÿÿ
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(¨‡ôŸıÿÿÿÿ
+n
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(øø‡ªüÿÿÿÿ
+O	java:S106º"9Replace this use of System.out or System.err by a logger.(Ù«©Ê
+R
+java:S2696¼"6Make the enclosing method "static" or remove this set.(¤†§üÿÿÿÿ
+M
+java:S2696¾"6Make the enclosing method "static" or remove this set.(ü§×—
+O	java:S106Æ"9Replace this use of System.out or System.err by a logger.(öƒ­ä
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ğÓ›×ùÿÿÿÿ
+B
+java:S1075Ó"&Remove this hard-coded path-delimiter.(Ö£¹Üûÿÿÿÿ
+R
+java:S2696á"6Make the enclosing method "static" or remove this set.(ÀùÄşÿÿÿÿ
+T	java:S106ô"9Replace this use of System.out or System.err by a logger.(ï»ı‚üÿÿÿÿ

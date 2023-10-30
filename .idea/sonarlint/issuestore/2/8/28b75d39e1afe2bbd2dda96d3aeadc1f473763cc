@@ -1,0 +1,19 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†”é
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïû©Öûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†ûÁöüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Éß˜âûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ö€‚ğşÿÿÿÿ
+M	java:S106!"9Replace this use of System.out or System.err by a logger.(É¼ò2
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ÀÓæ‡
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ÓÂğùüÿÿÿÿ
+<
+java:S1659,"'Declare "stuidList" on a separate line.(Êä»i
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ÏÏ¼›ûÿÿÿÿ
+M	java:S106H"9Replace this use of System.out or System.err by a logger.(ìÚªp
+k
+java:S1989P"PHandle the following exception that could be thrown by "getWriter": IOException.(ø„Şºúÿÿÿÿ
+f
+java:S1989U"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(…¹ß¢ûÿÿÿÿ

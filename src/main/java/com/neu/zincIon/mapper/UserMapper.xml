@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--这里要把https改成http下面写sql语句时才有代码提示，不知道为啥。。。-->
+
+<!--namespace绑定一个指定的Dao/Mapper接口，一定要对应名称-->
+<mapper namespace="com.neu.zincIon.mapper.UserMapper">
+
+    <!--这是一个查询语句-->
+    <!--id对应namespace指定的接口里的方法名  resultType时sql语句的返回类型，写目录名-->
+    <!--关于mybatis中${}和#{}的区别见：https://www.cnblogs.com/donleo123/p/11672878.html}-->
+    <select id="getUserList" resultType="User">
+        select * from java_login.tb_user
+    </select>
+
+    <select id="getUserById" parameterType="String" resultType="user">
+        select * from java_login.tb_user where userId=#{id}
+    </select>
+
+    <!--对象中的属性可以直接取出来-->
+    <insert id="addUser" parameterType="user" >
+        insert into java_login.tb_user(userId,  userPwd, userMail, userJob) values (#{userId},#{userPwd},#{userMail},#{userJob})
+    </insert>
+
+    <update id="updateUser" parameterType="user">
+        update java_login.tb_user
+        set userPwd=#{userPwd},userMail=#{userMail},userJob=#{userJob}
+        where userId=#{userId}
+    </update>
+
+    <delete id="deleteUser" parameterType="String">
+        delete from java_login.tb_user where userId = #{id}
+    </delete>
+
+    <select id="getUserById2" parameterType="map" resultType="user">
+        select * from java_login.tb_user where userId=#{helloId}
+    </select>
+
+
+    <select id="getUserLike" parameterType="map" resultType="user">
+        select * from java_login.tb_user where (userId like concat('%',#{uidQuery},'%') or isnull(#{uidQuery})) and (userJob like concat('%',#{jobQuery},'%') or isnull(#{jobQuery}))
+    </select>
+
+
+<!--    结果集映射 当类属性名与数据库中列名不同无法直接映射时使用，那个不同加那个就行-->
+    <resultMap id="UserMap" type="userTest">
+<!--        column数据库字段 property实体中属性-->
+        <result column="userId" property="id"/>
+        <result column="userName" property="name"/>
+        <result column="UserPwd" property="pwd"/>
+        <result column="userMail" property="mail"/>
+        <result column="userJob" property="job"/>
+    </resultMap>
+
+    <select id="getUserTestById" resultMap="UserMap">
+        select * from java_login.tb_user where userId = #{id}
+    </select>
+
+<!--    分页查询-->
+<!--    limit a:限制结果为前a条数据-->
+<!--    limit a,b：从第a行开始查询b条记录-->
+<!--    limit a offset b：查询a条记录，从第b行开始，起始行数为第0行-->
+    <select id="getUserByLimit" parameterType="map" resultType="user">
+        select * from java_login.tb_user limit #{startIndex},#{pageSize}
+    </select>
+
+</mapper>

@@ -1,0 +1,25 @@
+
+;	css:S46569"&Unexpected duplicate "text-decoration"(ôª²ô
+D	css:S4656ò")Unexpected duplicate "-webkit-transition"(åÎâœúÿÿÿÿ
+A	css:S4649“"&Unexpected missing generic font family(âıÇØıÿÿÿÿ
+A	css:S4649Ô3"&Unexpected missing generic font family(‰ù©åşÿÿÿÿ
+=	css:S4648p"#Unexpected duplicate name monospace(Á¯›»ùÿÿÿÿ
+J	css:S4661¼1"4Unexpected unknown media feature name "transform-3d"(¦Š³¬
+P	css:S4666¸":Unexpected duplicate selector "html", first used at line 7(óàÂ
+V	css:S4666¼";Unexpected duplicate selector "body", first used at line 12(×ŸÌíıÿÿÿÿ
+S	css:S4666Ë"8Unexpected duplicate selector "a", first used at line 45(Î¶¿œûÿÿÿÿ
+S	css:S4666Ø"=Unexpected duplicate selector "figure", first used at line 96(Ú¦¶¯
+U	css:S4666Û":Unexpected duplicate selector "img", first used at line 90(ô¯÷îüÿÿÿÿ
+T	css:S4666ú"9Unexpected duplicate selector "hr", first used at line 99(ÄÈ÷¨øÿÿÿÿ
+€	css:S4666ù"eUnexpected duplicate selector "code,
+kbd,
+pre,
+samp", first used at line 108 (no-duplicate-selectors)(êâ­ÿÿÿÿÿ
+Q	css:S4666–";Unexpected duplicate selector "pre", first used at line 105(½©Ÿú
+S	css:S4666­"=Unexpected duplicate selector "table", first used at line 186(úíÀò
+V	css:S4666"@Unexpected duplicate selector "fieldset", first used at line 171(ÿœ«ã
+T	css:S4666£">Unexpected duplicate selector "legend", first used at line 176(Öİ¬Î
+g	css:S4666´"LUnexpected duplicate selector "input[type="search"]", first used at line 161(Š”ı€ÿÿÿÿÿ
+—	css:S4666¼"|Unexpected duplicate selector "input[type="radio"],
+input[type="checkbox"]", first used at line 150 (no-duplicate-selectors)(£­‘Şøÿÿÿÿ
+t	css:S4666¯ "YUnexpected duplicate selector ".nav-tabs.nav-justified > li > a", first used at line 4126(ÂÂªßûÿÿÿÿ

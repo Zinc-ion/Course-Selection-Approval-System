@@ -1,0 +1,61 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ÂÓ¨‹
+E
+java:S3740"/Provide the parametrized type for this generic.(ÂÓ¨‹
+E
+java:S3740a"/Provide the parametrized type for this generic.(ÂÓ¨‹
+E
+java:S3740a"/Provide the parametrized type for this generic.(ÂÓ¨‹
+s
+java:S1488—"\Immediately return this expression instead of assigning it to the temporary variable "user".(¢»‹”
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°îåêûÿÿÿÿ
+_
+java:S2259¹"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+_
+java:S2259‹"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+^
+java:S2259m"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+_
+java:S2259ˆ"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+^
+java:S2259'"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+^
+java:S2259J"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+^
+java:S2259M"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+^
+java:S2259*"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+^
+java:S2259p"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259 "HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259¼"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÔÄëª
+j
+java:S3252"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Œ‡b
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+:
+java:S1168,"$Return an empty map instead of null.(¥¹ï
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(Àš‘Òüÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(¡´ü
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+:
+java:S1168O"$Return an empty map instead of null.(¥¹ï
+j
+java:S3252_"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(Öº×şûÿÿÿÿ
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+:
+java:S1168r"$Return an empty map instead of null.(¥¹ï
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(İ”ş
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(Şï€úÿÿÿÿ
+O	java:S106¸"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+T	java:S106¾"9Replace this use of System.out or System.err by a logger.(Şï€úÿÿÿÿ

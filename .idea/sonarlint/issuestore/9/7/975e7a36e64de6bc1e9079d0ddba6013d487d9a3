@@ -1,0 +1,32 @@
+
+u
+java:S1192""_Define a constant instead of duplicating this literal "<script language='javascript'>" 3 times.(ÄµØ
+
+java:S1192$"sDefine a constant instead of duplicating this literal "window.location.href='teacherFile.jsp';</script>')" 3 times.(çèİşûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†”é
+g
+java:S2259("LA "NullPointerException" could be thrown; "suidCourseName" is nullable here.(Ä£¡öüÿÿÿÿ
+u
+java:S1149/"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+{
+java:S1989"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(³æ£õùÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "ltuid".(Ìâ²øùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½óËîşÿÿÿÿ
+y
+java:S1989"^Handle the following exception that could be thrown by "decode": UnsupportedEncodingException.(ğ®‚ûÿÿÿÿÿ
+E
+java:S1481"*Remove this unused "ltuid" local variable.(Ìâ²øùÿÿÿÿ
+f
+java:S1989""PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(É¸ìÙúÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ææºŠ
+f
+java:S1989M"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+V	java:S125J"<This block of commented-out lines of code should be removed.(Ø²¥¨ùÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(áà‰¬øÿÿÿÿ
+Q	java:S125R"<This block of commented-out lines of code should be removed.(›êÄ¬
+f
+java:S1989p"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+V	java:S125m"<This block of commented-out lines of code should be removed.(÷¬ëÉøÿÿÿÿ
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(äçğüÿÿÿÿ

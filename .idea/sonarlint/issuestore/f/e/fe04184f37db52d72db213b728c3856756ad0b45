@@ -1,0 +1,515 @@
+
+sjavascript:S3776("WRefactor this function to reduce its Cognitive Complexity from 24902 to the 15 allowed.(Çà§„
+Jjavascript:S35040")Unexpected var, use let or const instead.(™ù±ÿÿÿÿÿ
+Jjavascript:S35042")Unexpected var, use let or const instead.(ˆë»çûÿÿÿÿ
+Jjavascript:S35044")Unexpected var, use let or const instead.(Í´Ñ‚ùÿÿÿÿ
+Ejavascript:S35046")Unexpected var, use let or const instead.(ÍëĞ¶
+Jjavascript:S3504=")Unexpected var, use let or const instead.(Ûª×ôøÿÿÿÿ
+Ejavascript:S3504?")Unexpected var, use let or const instead.(‘°¬Ê
+Ejavascript:S3504A")Unexpected var, use let or const instead.(Â¶Ô
+Jjavascript:S3504C")Unexpected var, use let or const instead.(İ°·´üÿÿÿÿ
+Jjavascript:S3504E")Unexpected var, use let or const instead.(Å‰¹„ÿÿÿÿÿ
+Djavascript:S3504G")Unexpected var, use let or const instead.(Ñú¦p
+Jjavascript:S3504I")Unexpected var, use let or const instead.(‹êÿ¼ıÿÿÿÿ
+Jjavascript:S3504K")Unexpected var, use let or const instead.(˜½‰Àùÿÿÿÿ
+Ejavascript:S3504M")Unexpected var, use let or const instead.(«Š Æ
+Jjavascript:S3504W")Unexpected var, use let or const instead.(‹î³·ùÿÿÿÿ
+Ejavascript:S3504\")Unexpected var, use let or const instead.(ü¸ñŒ
+Ejavascript:S3504`")Unexpected var, use let or const instead.(ã»å
+Jjavascript:S3504j")Unexpected var, use let or const instead.(ü”¿øÿÿÿÿ
+vjavascript:S6582{"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(§›¹8
+Kjavascript:S3504•")Unexpected var, use let or const instead.(ûò²ÿÿÿÿÿ
+Kjavascript:S3504À")Unexpected var, use let or const instead.(‰ª©…úÿÿÿÿ
+Kjavascript:S3504í")Unexpected var, use let or const instead.(åª™¬ûÿÿÿÿ
+Kjavascript:S3504ş")Unexpected var, use let or const instead.(ïÖÑ şÿÿÿÿ
+Kjavascript:S3504Ô")Unexpected var, use let or const instead.(†ÌÙ¾üÿÿÿÿ
+Kjavascript:S3504é")Unexpected var, use let or const instead.( ¨ëÈûÿÿÿÿ
+Tjavascript:S1854ë"2Remove this useless assignment to variable "name".(ÅàÉ¿ıÿÿÿÿ
+wjavascript:S6582ô"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(·Í¿_
+Kjavascript:S3504ø")Unexpected var, use let or const instead.(¾×¼¸úÿÿÿÿ
+Kjavascript:S3504")Unexpected var, use let or const instead.(­Ó‡Êúÿÿÿÿ
+Fjavascript:S3504¥")Unexpected var, use let or const instead.(¢åº
+Kjavascript:S3504³")Unexpected var, use let or const instead.(»Œ•ãıÿÿÿÿ
+Fjavascript:S3504Ç")Unexpected var, use let or const instead.(·Š›Ä
+Kjavascript:S3504ı")Unexpected var, use let or const instead.(éßÿÿÿÿÿ
+Fjavascript:S3504‡")Unexpected var, use let or const instead.(Ç¥¿
+Kjavascript:S3504“")Unexpected var, use let or const instead.(ãÌ²ÿüÿÿÿÿ
+Fjavascript:S3504Ä")Unexpected var, use let or const instead.(Æïşº
+ojavascript:S5850ô"TGroup parts of the regex together to make the intended operator precedence explicit.(´ÏX
+;javascript:S6324ü"Remove this control character.(îïñò
+;javascript:S6324ü"Remove this control character.(îïñò
+;javascript:S6324ü"Remove this control character.(îïñò
+@javascript:S6324ı"Remove this control character.(Ú•«­øÿÿÿÿ
+@javascript:S6324€"Remove this control character.(ç­Îƒüÿÿÿÿ
+@javascript:S6324"Remove this control character.(ú‚¤şÿÿÿÿ
+@javascript:S6324‚"Remove this control character.(·…à°şÿÿÿÿ
+;javascript:S6324ƒ"Remove this control character.(í„§Ö
+;javascript:S6324ƒ"Remove this control character.(í„§Ö
+@javascript:S6324„"Remove this control character.(éöƒãıÿÿÿÿ
+@javascript:S6324„"Remove this control character.(éöƒãıÿÿÿÿ
+@javascript:S6324„"Remove this control character.(éöƒãıÿÿÿÿ
+vjavascript:S5850Œ"TGroup parts of the regex together to make the intended operator precedence explicit.(˜åÁÑùÿÿÿÿ
+Fjavascript:S3504 ")Unexpected var, use let or const instead.(‰’êÕ
+`javascript:S3358«"DExtract this nested ternary operation into an independent statement.(’Ÿ£X
+;javascript:S6324²"Remove this control character.(´‡¨
+;javascript:S6324²"Remove this control character.(´‡¨
+Wjavascript:S1121Ö"5Extract the assignment of "arr" from this expression.(Ì¯—şÿÿÿÿ
+gjavascript:S905İ"FExpected an assignment or function call and instead saw an expression.(§—Áíúÿÿÿÿ
+Fjavascript:S3504é")Unexpected var, use let or const instead.(ŠëÄˆ
+1javascript:S108í"Empty block statement.(ô÷‹`
+Fjavascript:S3504ô")Unexpected var, use let or const instead.(“ĞÖˆ
+xjavascript:S6582õ"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(„Äš€
+Ujavascript:S1121"3Extract the assignment of "m" from this expression.(›»Ö¤úÿÿÿÿ
+Xjavascript:S1121“"6Extract the assignment of "elem" from this expression.(™¢æùÿÿÿÿ
+Vjavascript:S1135–"4Complete the task associated to this "TODO" comment.(ĞÉ©Íøÿÿÿÿ
+Vjavascript:S1135¤"4Complete the task associated to this "TODO" comment.(ĞÉ©Íøÿÿÿÿ
+Pjavascript:S1121µ"3Extract the assignment of "m" from this expression.(¨ô”ñ
+wjavascript:S6582À"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(»éô
+Wjavascript:S1121Ü"5Extract the assignment of "nid" from this expression.(ñÌÿşÿÿÿÿ
+Wjavascript:S1121ß"5Extract the assignment of "nid" from this expression.(Ğ°–øÿÿÿÿ
+Ejavascript:S3504ˆ")Unexpected var, use let or const instead.(ÆÆûe
+ajavascript:S1121’"DExtract the assignment of "cache[ key + " " ]" from this expression.(ÃÓ¦Ç
+Kjavascript:S3504¥")Unexpected var, use let or const instead.(˜¨éÉÿÿÿÿÿ
+Kjavascript:S3504½")Unexpected var, use let or const instead.(¢ÄùØúÿÿÿÿ
+Fjavascript:S3504Ì")Unexpected var, use let or const instead.(€Ã‚Ø
+Kjavascript:S3504ç")Unexpected var, use let or const instead.(•ˆË¹ùÿÿÿÿ
+Kjavascript:S3504ò")Unexpected var, use let or const instead.(•ˆË¹ùÿÿÿÿ
+Fjavascript:S3504·")Unexpected var, use let or const instead.(­°Æ¬
+Pjavascript:S1121½"3Extract the assignment of "j" from this expression.(…ìø 
+[javascript:S1121¾">Extract the assignment of "matches[ j ]" from this expression.(Âß÷
+Kjavascript:S3504×")Unexpected var, use let or const instead.(Øà˜ğıÿÿÿÿ
+xjavascript:S6582İ"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(ãƒô
+Fjavascript:S3504æ")Unexpected var, use let or const instead.(Ä¦³Œ
+}javascript:S6582²	"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(ŠÜÉÊşÿÿÿÿ
+Kjavascript:S3504¸	")Unexpected var, use let or const instead.(ä÷Ü–úÿÿÿÿ
+Kjavascript:S3504¿	")Unexpected var, use let or const instead.(Ø¦íôüÿÿÿÿ
+Kjavascript:S3504Å	")Unexpected var, use let or const instead.(ä÷Ü–úÿÿÿÿ
+Kjavascript:S3504Ç	")Unexpected var, use let or const instead.(…µÒıùÿÿÿÿ
+Fjavascript:S3504Ñ	")Unexpected var, use let or const instead.(ßÇÇ‡
+Kjavascript:S3504ù	")Unexpected var, use let or const instead.(¸Õ«úøÿÿÿÿ
+_javascript:S1121£
+"=Extract the assignment of "support.qsa" from this expression.(ï«şÁúÿÿÿÿ
+Kjavascript:S3504©
+")Unexpected var, use let or const instead.(±‰âÃúÿÿÿÿ
+Fjavascript:S3504î
+")Unexpected var, use let or const instead.(î»ú
+fjavascript:S1121Œ"IExtract the assignment of "support.matchesSelector" from this expression.(ê“Ÿ‡
+Vjavascript:S1121Œ"9Extract the assignment of "matches" from this expression.(ê“Ÿ‡
+Fjavascript:S3504«")Unexpected var, use let or const instead.(¹³‰¶
+wjavascript:S6582¬"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(ì†÷b
+Fjavascript:S3504Ì")Unexpected var, use let or const instead.(‰È…
+Fjavascript:S3504ƒ")Unexpected var, use let or const instead.(¡Úú¿
+`javascript:S3358’"DExtract this nested ternary operation into an independent statement.(­ƒm
+ajavascript:S3358”"DExtract this nested ternary operation into an independent statement.(ÚœŒò
+fjavascript:S3358•"DExtract this nested ternary operation into an independent statement.(³ÜµĞúÿÿÿÿ
+ajavascript:S3358–"DExtract this nested ternary operation into an independent statement.(è×Õ
+fjavascript:S3358¸"DExtract this nested ternary operation into an independent statement.(òÖú®şÿÿÿÿ
+ajavascript:S3358¹"DExtract this nested ternary operation into an independent statement.(•”Áú
+xjavascript:S6582Ê"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(“’÷Ù
+}javascript:S6582Ë"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(šÚ‘¼üÿÿÿÿ
+Fjavascript:S3504Î")Unexpected var, use let or const instead.(à°ç™
+Fjavascript:S3504ø")Unexpected var, use let or const instead.(¨ÿ¢á
+fjavascript:S3358"DExtract this nested ternary operation into an independent statement.(é³üËÿÿÿÿÿ
+fjavascript:S3358ƒ"DExtract this nested ternary operation into an independent statement.(ú‹¯…ıÿÿÿÿ
+Wjavascript:S1121ƒ"5Extract the assignment of "val" from this expression.(ú‹¯…ıÿÿÿÿ
+Kjavascript:S3504•")Unexpected var, use let or const instead.(¸Õ«úøÿÿÿÿ
+Kjavascript:S3504¶")Unexpected var, use let or const instead.(³àÎùÿÿÿÿ
+Kjavascript:S3504¡")Unexpected var, use let or const instead.(Û·ï‚úÿÿÿÿ
+Kjavascript:S3504Â")Unexpected var, use let or const instead.(¥”Çµşÿÿÿÿ
+Fjavascript:S3504Í")Unexpected var, use let or const instead.(î”íğ
+[javascript:S1121Ğ"9Extract the assignment of "pattern" from this expression.(¹’¾ıÿÿÿÿ
+Fjavascript:S3504Ş")Unexpected var, use let or const instead.( ¢£Û
+fjavascript:S3358ì"DExtract this nested ternary operation into an independent statement.(¹šıêıÿÿÿÿ
+ajavascript:S3358í"DExtract this nested ternary operation into an independent statement.(º¬ Ò
+`javascript:S3358î"DExtract this nested ternary operation into an independent statement.(®·èY
+ajavascript:S3358ï"DExtract this nested ternary operation into an independent statement.(Ó¾óÃ
+fjavascript:S3358ğ"DExtract this nested ternary operation into an independent statement.(§œäÿúÿÿÿÿ
+ajavascript:S3358ñ"DExtract this nested ternary operation into an independent statement.(Şø­¨
+Kjavascript:S3504ù")Unexpected var, use let or const instead.(€ÿ½«üÿÿÿÿ
+Fjavascript:S3504…")Unexpected var, use let or const instead.(’µ·ç
+Ojavascript:S1854³"2Remove this useless assignment to variable "diff".(²œş³
+Kjavascript:S3504„")Unexpected var, use let or const instead.(èŒ×¸ÿÿÿÿÿ
+Fjavascript:S3504”")Unexpected var, use let or const instead.(ã¹£§
+]javascript:S1121™"@Extract the assignment of "matches[ idx ]" from this expression.(àº…€
+Fjavascript:S3504­")Unexpected var, use let or const instead.(µ¨È
+Kjavascript:S3504³")Unexpected var, use let or const instead.(¸Õ«úøÿÿÿÿ
+Xjavascript:S1121¹"6Extract the assignment of "elem" from this expression.(ÛÌñ‡şÿÿÿÿ
+[javascript:S1121º">Extract the assignment of "matches[ i ]" from this expression.(é·
+Kjavascript:S3504ä")Unexpected var, use let or const instead.(ÿºµúÿÿÿÿ
+\javascript:S1121æ":Extract the assignment of "elemLang" from this expression.(è—µÙûÿÿÿÿ
+Sjavascript:S1121í"6Extract the assignment of "elem" from this expression.(òœÏ¬
+Kjavascript:S3504ô")Unexpected var, use let or const instead.(Î¦ÿ„üÿÿÿÿ
+}javascript:S6582ô"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(Î¦ÿ„üÿÿÿÿ
+Kjavascript:S3504Š")Unexpected var, use let or const instead.(Ë¶¡ûÿÿÿÿ
+gjavascript:S905•"FExpected an assignment or function call and instead saw an expression.(öÇ…Õøÿÿÿÿ
+Kjavascript:S3504¸")Unexpected var, use let or const instead.(•ˆË¹ùÿÿÿÿ
+Kjavascript:S3504½")Unexpected var, use let or const instead.(Æ³³üÿÿÿÿ
+Fjavascript:S3504Õ")Unexpected var, use let or const instead.(­¢¤ê
+Kjavascript:S3504İ")Unexpected var, use let or const instead.(ŞŒÖùÿÿÿÿ
+Kjavascript:S3504å")Unexpected var, use let or const instead.(¾Ùü±øÿÿÿÿ
+fjavascript:S3358ç"DExtract this nested ternary operation into an independent statement.(¬¨Üàøÿÿÿÿ
+Njavascript:S1264ê",Replace this "for" loop with a "while" loop.(ÒöÁşøÿÿÿÿ
+Kjavascript:S3504ñ")Unexpected var, use let or const instead.(İ˜¼‹ùÿÿÿÿ
+Ijavascript:S1264ò",Replace this "for" loop with a "while" loop.(ï¾Ü
+Djavascript:S1186…"'Unexpected empty function 'setFilters'.(»•ÿò
+Kjavascript:S3504Š")Unexpected var, use let or const instead.(Ã´œôùÿÿÿÿ
+Ujavascript:S1121Ÿ"8Extract the assignment of "tokens" from this expression.(ä‹İñ
+Tjavascript:S1121¥"7Extract the assignment of "match" from this expression.(êÕ¸©
+Yjavascript:S1121²"7Extract the assignment of "match" from this expression.(¦¬Ôüÿÿÿÿ
+ajavascript:S3358È"DExtract this nested ternary operation into an independent statement.(ÇÔÊÒ
+Fjavascript:S3504Ğ")Unexpected var, use let or const instead.(Æïşº
+Kjavascript:S3504Ú")Unexpected var, use let or const instead.(÷ô›£ÿÿÿÿÿ
+Fjavascript:S3504î")Unexpected var, use let or const instead.(’¦µÎ
+Wjavascript:S1121†":Extract the assignment of "oldCache" from this expression.(£‘¶ú
+ajavascript:S1121Š"?Extract the assignment of "newCache[ 2 ]" from this expression.(Ï£’ôÿÿÿÿÿ
+ajavascript:S1121‘"?Extract the assignment of "newCache[ 2 ]" from this expression.(ÆÓİˆıÿÿÿÿ
+Kjavascript:S3504Ÿ")Unexpected var, use let or const instead.(ÏÆüÿÿÿÿ
+Fjavascript:S3504«")Unexpected var, use let or const instead.(Æïşº
+Kjavascript:S3504´")Unexpected var, use let or const instead.(¸Õ«úøÿÿÿÿ
+Xjavascript:S1121»"6Extract the assignment of "elem" from this expression.(ÛÌñ‡şÿÿÿÿ
+Kjavascript:S3504Ğ")Unexpected var, use let or const instead.(ØÙšèşÿÿÿÿ
+fjavascript:S3358ä"DExtract this nested ternary operation into an independent statement.(°ˆÃ¶ıÿÿÿÿ
+fjavascript:S3358ä"DExtract this nested ternary operation into an independent statement.(°ˆÃ¶ıÿÿÿÿ
+Xjavascript:S1121ú"6Extract the assignment of "elem" from this expression.(îˆğÿıÿÿÿÿ
+hjavascript:S1121û"KExtract the assignment of "matcherIn[ postMap[ i ] ]" from this expression.(Ÿâ
+Xjavascript:S1121ˆ"6Extract the assignment of "elem" from this expression.(¿’Ÿıÿÿÿÿ
+bjavascript:S1121‹"@Extract the assignment of "matcherIn[ i ]" from this expression.(‰ä’°ıÿÿÿÿ
+Yjavascript:S1121"<Extract the assignment of "matcherOut" from this expression.(ÜÜÎŸ
+Rjavascript:S1121”"6Extract the assignment of "elem" from this expression.(È¦ºr
+^javascript:S1121—"AExtract the assignment of "results[ temp ]" from this expression.(èÜŒ¤
+Kjavascript:S3504­")Unexpected var, use let or const instead.(îÆó¥şÿÿÿÿ
+Fjavascript:S3504»")Unexpected var, use let or const instead.(‰ºÆò
+`javascript:S1121¼">Extract the assignment of "checkContext" from this expression.(ëœå­úÿÿÿÿ
+Vjavascript:S1121Æ"9Extract the assignment of "matcher" from this expression.(ë«–·
+@javascript:S2310Ï"Remove this assignment of "i".(­¤Ïşÿÿÿÿ
+Ujavascript:S1121à"8Extract the assignment of "tokens" from this expression.(Õöîó
+Kjavascript:S3504ì")Unexpected var, use let or const instead.(ƒ®×üûÿÿÿÿ
+Fjavascript:S3504ï")Unexpected var, use let or const instead.(¬Öá›
+Sjavascript:S1121¤"6Extract the assignment of "elem" from this expression.(Íö¾Ï
+gjavascript:S3403º"JRemove this "!==" check; it will always be true. Did you mean to use "!="?(½Áô¼
+zjavascript:S3579Æ"XMake it an object if it must have named properties; otherwise, use a numeric index here.(ÚÉ²ìøÿÿÿÿ
+Kjavascript:S3504é")Unexpected var, use let or const instead.(ãÌ²ÿüÿÿÿÿ
+Ejavascript:S3504”")Unexpected var, use let or const instead.(Ú§×
+Wjavascript:S1121–":Extract the assignment of "selector" from this expression.(§Ñšï
+Yjavascript:S1121 "7Extract the assignment of "token" from this expression.(ÚÂ½›üÿÿÿÿ
+Xjavascript:S1121¶"6Extract the assignment of "type" from this expression.(òƒÿñøÿÿÿÿ
+Xjavascript:S1121¹"6Extract the assignment of "find" from this expression.(ÏàÈŞúÿÿÿÿ
+Xjavascript:S1121¼"6Extract the assignment of "seed" from this expression.(Ä«¦¹şÿÿÿÿ
+Fjavascript:S3504’")Unexpected var, use let or const instead.(È¢ •
+fjavascript:S3358•"DExtract this nested ternary operation into an independent statement.(ú‹¯…ıÿÿÿÿ
+Wjavascript:S1121•"5Extract the assignment of "val" from this expression.(ú‹¯…ıÿÿÿÿ
+Fjavascript:S3504°")Unexpected var, use let or const instead.(ªŞÇ
+Ejavascript:S3504±")Unexpected var, use let or const instead.(ï²Ç<
+Xjavascript:S1121´"6Extract the assignment of "elem" from this expression.(„ËøÉûÿÿÿÿ
+Kjavascript:S3504À")Unexpected var, use let or const instead.(¾»ÎŞøÿÿÿÿ
+Fjavascript:S3504Á")Unexpected var, use let or const instead.(İÕº¼
+Fjavascript:S3504Í")Unexpected var, use let or const instead.(¤­«’
+Kjavascript:S3504Ö")Unexpected var, use let or const instead.(ÿ™ïïùÿÿÿÿ
+Cjavascript:S6535Ö"!Unnecessary escape character: \/.(ÿ™ïïùÿÿÿÿ
+Kjavascript:S3504õ")Unexpected var, use let or const instead.(’ú¦×ùÿÿÿÿ
+Fjavascript:S3504†")Unexpected var, use let or const instead.(“Òàµ
+Kjavascript:S3504µ")Unexpected var, use let or const instead.(÷³ô–ûÿÿÿÿ
+Xjavascript:S6353»";Use concise character class syntax '.' instead of '[\w\W]'.(çèâŸ
+Kjavascript:S3504¾")Unexpected var, use let or const instead.(‹şˆ„øÿÿÿÿ
+Ijavascript:S6557Ë"'Use 'String#startsWith' method instead.(úœúÿÿÿÿ
+Ejavascript:S6557Ì")Use the 'String#endsWith' method instead.(¶«Éy
+wjavascript:S6582á"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(«â
+Fjavascript:S3504§")Unexpected var, use let or const instead.(›ı‰¦
+Kjavascript:S3504³")Unexpected var, use let or const instead.(ô¶Ÿ˜ÿÿÿÿÿ
+Fjavascript:S3504·")Unexpected var, use let or const instead.(­¢¤ê
+Fjavascript:S3504Á")Unexpected var, use let or const instead.(¡Úú¿
+}javascript:S6582ã"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(‚òÔ©ûÿÿÿÿ
+Rjavascript:S1121ƒ"5Extract the assignment of "cur" from this expression.(çÛ£ï
+2javascript:S108ƒ"Empty block statement.(çÛ£ï
+Kjavascript:S3504‰")Unexpected var, use let or const instead.(‰ßÙúùÿÿÿÿ
+>javascript:S6582¥"Change to an optional chain.(¿Š’ıÿÿÿÿÿ
+Kjavascript:S3504À")Unexpected var, use let or const instead.(Ëâå´ûÿÿÿÿ
+Kjavascript:S3504Ú")Unexpected var, use let or const instead.(Â’ç§üÿÿÿÿ
+Kjavascript:S3504à")Unexpected var, use let or const instead.(Ï½‡ìÿÿÿÿÿ
+Kjavascript:S3504…")Unexpected var, use let or const instead.(õ÷ØÁøÿÿÿÿ
+~javascript:S1994£"aThis loop's stop condition tests "queue.length, queue" but the incrementer updates "firingIndex".(âÖæÅ
+Djavascript:S2310¥"(Remove this assignment of "firingIndex".(ĞĞ†]
+Jjavascript:S2310¬"(Remove this assignment of "firingIndex".(Ä¡–ûıÿÿÿÿ
+xjavascript:S6582Ú"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(²”´
+Fjavascript:S3504ì")Unexpected var, use let or const instead.(ËŞ¯ı
+Fjavascript:S3504È")Unexpected var, use let or const instead.(­ÆÙ§
+Zjavascript:S1121Í"8Extract the assignment of "method" from this expression.(³À¿Óüÿÿÿÿ
+Tjavascript:S1121Ñ"8Extract the assignment of "method" from this expression.(Ş¶ó>
+Kjavascript:S3504ë")Unexpected var, use let or const instead.(²´çşÿÿÿÿ
+Fjavascript:S3504…")Unexpected var, use let or const instead.(·àô
+Kjavascript:S3504‹")Unexpected var, use let or const instead.(Öâ“øÿÿÿÿ
+Kjavascript:S3504‘")Unexpected var, use let or const instead.(øÙúßúÿÿÿÿ
+}javascript:S6582‘"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(øÙúßúÿÿÿÿ
+Kjavascript:S3504£")Unexpected var, use let or const instead.(è«Ä‡üÿÿÿÿ
+Kjavascript:S3504¦")Unexpected var, use let or const instead.(×ÂÿÚúÿÿÿÿ
+Fjavascript:S3504©")Unexpected var, use let or const instead.(ı›£µ
+Fjavascript:S3504Ñ")Unexpected var, use let or const instead.(­‰ïÛ
+Kjavascript:S3504”")Unexpected var, use let or const instead.(ûò²ÿÿÿÿÿ
+xjavascript:S6582µ"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(é“˜¾
+Kjavascript:S3504Ç")Unexpected var, use let or const instead.(âš½èùÿÿÿÿ
+}javascript:S6582Í"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(¢›áøÿÿÿÿ
+Fjavascript:S3504ß")Unexpected var, use let or const instead.(¦“¡¸
+Kjavascript:S3504¯ ")Unexpected var, use let or const instead.(Ë×ˆñüÿÿÿÿ
+Fjavascript:S3504° ")Unexpected var, use let or const instead.(Æïşº
+Kjavascript:S3504ì ")Unexpected var, use let or const instead.(·®»ìıÿÿÿÿ
+Kjavascript:S3504ú ")Unexpected var, use let or const instead.(çû–´øÿÿÿÿ
+Kjavascript:S3504“!")Unexpected var, use let or const instead.( ‰¡ºúÿÿÿÿ
+Kjavascript:S3504²!")Unexpected var, use let or const instead.(Ùòéòùÿÿÿÿ
+Kjavascript:S3504ë!")Unexpected var, use let or const instead.(ãÌ²ÿüÿÿÿÿ
+Fjavascript:S3504š"")Unexpected var, use let or const instead.(¢¥Î
+Kjavascript:S3504"")Unexpected var, use let or const instead.(±×Öùÿÿÿÿ
+Kjavascript:S3504 "")Unexpected var, use let or const instead.(Ç¸Ñ÷ûÿÿÿÿ
+Vjavascript:S1135ª""4Complete the task associated to this "TODO" comment.(©ÇÈùÿÿÿÿ
+Kjavascript:S3504®"")Unexpected var, use let or const instead.(Ñ”“üÿÿÿÿ
+]javascript:S6353®"";Use concise character class syntax '.' instead of '[\w\W]'.(Ñ”“üÿÿÿÿ
+]javascript:S6353®"";Use concise character class syntax '.' instead of '[\w\W]'.(Ñ”“üÿÿÿÿ
+Kjavascript:S3504Ë"")Unexpected var, use let or const instead.( ¨ëÈûÿÿÿÿ
+Qjavascript:S1135î""4Complete the task associated to this "TODO" comment.(£ş«Î
+Kjavascript:S3504û"")Unexpected var, use let or const instead.(ñüåÈøÿÿÿÿ
+}javascript:S6582ı""[Prefer using an optional chain expression instead, as it's more concise and easier to read.(¥ÌÅüÿÿÿÿ
+Fjavascript:S3504¡#")Unexpected var, use let or const instead.(¥äƒâ
+Fjavascript:S3504Ï#")Unexpected var, use let or const instead.(Œİ‰Ä
+Kjavascript:S3504ä#")Unexpected var, use let or const instead.(ßÜãáúÿÿÿÿ
+Fjavascript:S3504†$")Unexpected var, use let or const instead.(×ì—Å
+Kjavascript:S3504‘$")Unexpected var, use let or const instead.(‡¦Ë¨ûÿÿÿÿ
+Fjavascript:S3504 $")Unexpected var, use let or const instead.(ãÊ–­
+Kjavascript:S3504¶$")Unexpected var, use let or const instead.(«„Óÿùÿÿÿÿ
+}javascript:S6582É$"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(ËÒ´­ûÿÿÿÿ
+Kjavascript:S3504Ò$")Unexpected var, use let or const instead.(è…ê ÿÿÿÿÿ
+Fjavascript:S3504Ô$")Unexpected var, use let or const instead.(ùêß
+Fjavascript:S3504×$")Unexpected var, use let or const instead.(éğÃ¨
+Kjavascript:S3504Ù$")Unexpected var, use let or const instead.(ÇÈÁøÿÿÿÿÿ
+Fjavascript:S3504İ$")Unexpected var, use let or const instead.(ƒ‹•‘
+Fjavascript:S3504í$")Unexpected var, use let or const instead.(•¡šø
+Kjavascript:S3504ƒ%")Unexpected var, use let or const instead.(½†Œ²şÿÿÿÿ
+}javascript:S6582%"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(úØë€ûÿÿÿÿ
+Tjavascript:S1121¥%"7Extract the assignment of "scale" from this expression.(“Æ Ü
+Fjavascript:S3504Ä%")Unexpected var, use let or const instead.(¢¶Æ
+Kjavascript:S3504Ç%")Unexpected var, use let or const instead.(”£øôıÿÿÿÿ
+Fjavascript:S3504Ş%")Unexpected var, use let or const instead.(É‹Æı
+Kjavascript:S3504¢&")Unexpected var, use let or const instead.(ÏÈ‡üÿÿÿÿ
+Fjavascript:S3504¤&")Unexpected var, use let or const instead.(ã»œß
+>javascript:S6535¤&"!Unnecessary escape character: \/.(ã»œß
+Ejavascript:S3504¦&")Unexpected var, use let or const instead.(“éû:
+Kjavascript:S3504«&")Unexpected var, use let or const instead.(³Î ÷şÿÿÿÿ
+Fjavascript:S3504Ë&")Unexpected var, use let or const instead.(Åå×ú
+Fjavascript:S3504å&")Unexpected var, use let or const instead.(Ü™ŠÓ
+Fjavascript:S3504û&")Unexpected var, use let or const instead.(Æïşº
+Kjavascript:S3504ˆ'")Unexpected var, use let or const instead.(ÙØ¹Æùÿÿÿÿ
+Kjavascript:S3504‹'")Unexpected var, use let or const instead.(¢ìŞÚúÿÿÿÿ
+Kjavascript:S3504ä'")Unexpected var, use let or const instead.(ûò²ÿÿÿÿÿ
+vjavascript:S5850æ'"TGroup parts of the regex together to make the intended operator precedence explicit.(š»ºûÿÿÿÿ
+Fjavascript:S3504…(")Unexpected var, use let or const instead.(Á¢Øú
+Fjavascript:S3504Ë(")Unexpected var, use let or const instead.(­¾Íä
+Zjavascript:S1121è("8Extract the assignment of "events" from this expression.(Éì’Çúÿÿÿÿ
+Zjavascript:S1121ë("=Extract the assignment of "eventHandle" from this expression.(íò
+fjavascript:S2871û("DProvide a compare function to avoid sorting elements alphabetically.(Œ¶‘×ùÿÿÿÿ
+\javascript:S1121˜)":Extract the assignment of "handlers" from this expression.(ÕØÁ×şÿÿÿÿ
+Fjavascript:S3504¾)")Unexpected var, use let or const instead.(«»¤
+Ujavascript:S1121Ã)"8Extract the assignment of "events" from this expression.(»ƒ‡
+fjavascript:S2871Í)"DProvide a compare function to avoid sorting elements alphabetically.(Œ¶‘×ùÿÿÿÿ
+Kjavascript:S3504‡*")Unexpected var, use let or const instead.(¢¬Ÿşıÿÿÿÿ
+Vjavascript:S1121¥*"9Extract the assignment of "matched" from this expression.(«œşŸ
+]javascript:S1121©*";Extract the assignment of "handleObj" from this expression.(×³Ä¬ıÿÿÿÿ
+>javascript:S6582´*"Change to an optional chain.(ĞìÌ¦ÿÿÿÿÿ
+Kjavascript:S3504Ê*")Unexpected var, use let or const instead.(ĞÍüşúÿÿÿÿ
+Kjavascript:S3504²+")Unexpected var, use let or const instead.(ÿ‚Ë€ùÿÿÿÿ
+Kjavascript:S3504Ã+")Unexpected var, use let or const instead.(ÿ‚Ë€ùÿÿÿÿ
+Fjavascript:S3504Ó+")Unexpected var, use let or const instead.(Š¥ñØ
+Fjavascript:S3504û+")Unexpected var, use let or const instead.(şÈ…›
+9javascript:S6582¤,"Change to an optional chain.(½—Ü¶
+wjavascript:S6582Ï,"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(¶ê‡S
+wjavascript:S6582ò,"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(ÑÌ¡c
+Ejavascript:S3504‚-")Unexpected var, use let or const instead.(äıÏ$
+Ejavascript:S3504‹-")Unexpected var, use let or const instead.(äıÏ$
+Ejavascript:S3504”-")Unexpected var, use let or const instead.(äıÏ$
+Fjavascript:S3504Â-")Unexpected var, use let or const instead.(œÿ’˜
+Fjavascript:S3504Œ.")Unexpected var, use let or const instead.(Ô¬Ş
+Fjavascript:S3504¦.")Unexpected var, use let or const instead.(ô÷Ï­
+}javascript:S6582§."[Prefer using an optional chain expression instead, as it's more concise and easier to read.( š¡úÿÿÿÿ
+Kjavascript:S3504Ì.")Unexpected var, use let or const instead.(ûò²ÿÿÿÿÿ
+vjavascript:S5850Õ."TGroup parts of the regex together to make the intended operator precedence explicit.(ì„¹Šÿÿÿÿÿ
+Ejavascript:S3504ò.")Unexpected var, use let or const instead.(şÔ¨H
+Kjavascript:S3504“/")Unexpected var, use let or const instead.(Àâ…üÿÿÿÿ
+Fjavascript:S3504¤/")Unexpected var, use let or const instead.(µ‡©î
+Kjavascript:S3504°/")Unexpected var, use let or const instead.(àñ÷ úÿÿÿÿ
+Kjavascript:S3504ü/")Unexpected var, use let or const instead.(³àÎùÿÿÿÿ
+Fjavascript:S3504–0")Unexpected var, use let or const instead.(Äï¹°
+Kjavascript:S3504À0")Unexpected var, use let or const instead.(¿Üğôùÿÿÿÿ
+Sjavascript:S1121Æ0"6Extract the assignment of "data" from this expression.(‰£ñÑ
+Fjavascript:S3504ú0")Unexpected var, use let or const instead.(ÊøÄ”
+Fjavascript:S3504ƒ1")Unexpected var, use let or const instead.(ÊøÄ”
+Kjavascript:S3504š1")Unexpected var, use let or const instead.(¸Õ«úøÿÿÿÿ
+Kjavascript:S3504¶1")Unexpected var, use let or const instead.(ÓˆÃïùÿÿÿÿ
+Ejavascript:S3504Ü1")Unexpected var, use let or const instead.(Àïßi
+Fjavascript:S3504à1")Unexpected var, use let or const instead.(î¨ò¨
+Kjavascript:S3504ö1")Unexpected var, use let or const instead.(¬ä‘şÿÿÿÿ
+Fjavascript:S3504ˆ2")Unexpected var, use let or const instead.(Šô´Ó
+Fjavascript:S3504Š2")Unexpected var, use let or const instead.(é´—ø
+Fjavascript:S35042")Unexpected var, use let or const instead.(ã”ë
+}javascript:S6582‘2"[Prefer using an optional chain expression instead, as it's more concise and easier to read.( ó­šşÿÿÿÿ
+Kjavascript:S3504˜2")Unexpected var, use let or const instead.(Š³Èşÿÿÿÿ
+Ejavascript:S3504™2")Unexpected var, use let or const instead.(§â
+Kjavascript:S3504­2")Unexpected var, use let or const instead.(¡®åèúÿÿÿÿ
+Kjavascript:S3504Ä2")Unexpected var, use let or const instead.(´àğøÿÿÿÿ
+Fjavascript:S3504å2")Unexpected var, use let or const instead.(„²ÒÌ
+Fjavascript:S3504‘3")Unexpected var, use let or const instead.(êƒ«•
+Kjavascript:S3504¬3")Unexpected var, use let or const instead.(ßÈÄçùÿÿÿÿ
+\javascript:S1121î3":Extract the assignment of "this.get" from this expression.(Ø “õüÿÿÿÿ
+Kjavascript:S3504ô3")Unexpected var, use let or const instead.(‹†áÓøÿÿÿÿ
+Kjavascript:S3504ü3")Unexpected var, use let or const instead.(»•Òèøÿÿÿÿ
+Kjavascript:S3504‰4")Unexpected var, use let or const instead.(Ã¨Òûÿÿÿÿ
+gjavascript:S1121‘4"EExtract the assignment of "vendorProps[ name ]" from this expression.(““Òçüÿÿÿÿ
+Kjavascript:S3504•4")Unexpected var, use let or const instead.(ûò²ÿÿÿÿÿ
+Fjavascript:S3504¦4")Unexpected var, use let or const instead.(ˆÂİ—
+Kjavascript:S3504¯4")Unexpected var, use let or const instead.(§ÑÏ úÿÿÿÿ
+Fjavascript:S3504õ4")Unexpected var, use let or const instead.(ÀÊÔâ
+Kjavascript:S3504È5")Unexpected var, use let or const instead.(¬ÉÃåøÿÿÿÿ
+Kjavascript:S3504ô5")Unexpected var, use let or const instead.(…‡”¦ùÿÿÿÿ
+}javascript:S6582˜6"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(»ğ€ÿÿÿÿÿ
+Fjavascript:S3504º6")Unexpected var, use let or const instead.(íé“ˆ
+Fjavascript:S3504ù6")Unexpected var, use let or const instead.(úÜí…
+Fjavascript:S3504¼7")Unexpected var, use let or const instead.(Æïşº
+Fjavascript:S3504Ó7")Unexpected var, use let or const instead.(ƒ¼€Ì
+Kjavascript:S3504û7")Unexpected var, use let or const instead.(öİŸûÿÿÿÿ
+xjavascript:S6582ı7"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(Ì„Íª
+Kjavascript:S3504‚8")Unexpected var, use let or const instead.(’•èÊıÿÿÿÿ
+wjavascript:S6582’8"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(ƒï­B
+Kjavascript:S3504 8")Unexpected var, use let or const instead.(×¹±Ôüÿÿÿÿ
+Kjavascript:S3504à8")Unexpected var, use let or const instead.(ûò²ÿÿÿÿÿ
+Sjavascript:S1121ö8"7Extract the assignment of "fxNow" from this expression.(“Ä½M
+Fjavascript:S3504û8")Unexpected var, use let or const instead.(Õ˜†
+Fjavascript:S35049")Unexpected var, use let or const instead.(‰›¯ø
+Yjavascript:S1121”9"7Extract the assignment of "tween" from this expression.(¤·Òÿÿÿÿÿ
+Ejavascript:S35049")Unexpected var, use let or const instead.(  Üt
+xjavascript:S6582Ñ9"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(…Ğß±
+}javascript:S6582å9"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(æŒß¤ıÿÿÿÿ
+\javascript:S1515­:"?Make sure this function is not called after the loop completes.(†‡µ±
+Cjavascript:S2310¶:"!Remove this assignment of "prop".(©‰¡šıÿÿÿÿ
+Fjavascript:S3504É:")Unexpected var, use let or const instead.(··š
+Djavascript:S2310á:""Remove this assignment of "index".(é‰Ü„üÿÿÿÿ
+Fjavascript:S3504î:")Unexpected var, use let or const instead.(Ù‘éü
+Sjavascript:S3800÷:"6Refactor this function to always return the same type.(õ‹Åæ
+Kjavascript:S3504û:")Unexpected var, use let or const instead.(ÉÄº¢ÿÿÿÿÿ
+Fjavascript:S3504¦;")Unexpected var, use let or const instead.(Î¤€
+Djavascript:S3504¬;")Unexpected var, use let or const instead.(ã¿
+Kjavascript:S3504î;")Unexpected var, use let or const instead.(­¿íñûÿÿÿÿ
+Kjavascript:S3504ü;")Unexpected var, use let or const instead.(Ùòéòùÿÿÿÿ
+Kjavascript:S3504“<")Unexpected var, use let or const instead.(Š“ì¯ÿÿÿÿÿ
+Kjavascript:S3504È<")Unexpected var, use let or const instead.(ÒÓ…øÿÿÿÿ
+Kjavascript:S3504Í<")Unexpected var, use let or const instead.(¤ƒ†Àûÿÿÿÿ
+Kjavascript:S3504Û<")Unexpected var, use let or const instead.(Ñ±Şÿøÿÿÿÿ
+Kjavascript:S3504Ü<")Unexpected var, use let or const instead.(›ï†Êıÿÿÿÿ
+Fjavascript:S3504ë<")Unexpected var, use let or const instead.(Âüşé
+wjavascript:S6582ñ<"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(«Š³
+xjavascript:S6582ö<"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(‹¦ØÇ
+qjavascript:S3782‚="OVerify that argument is of correct type: expected 'number' instead of 'string'.(ò‡êÁøÿÿÿÿ
+Fjavascript:S3504“=")Unexpected var, use let or const instead.(îµ²²
+}javascript:S6582 ="[Prefer using an optional chain expression instead, as it's more concise and easier to read.(‡ó«şşÿÿÿÿ
+wjavascript:S6582®="[Prefer using an optional chain expression instead, as it's more concise and easier to read.(Ë€Û_
+Kjavascript:S3504º=")Unexpected var, use let or const instead.(á·ş“ıÿÿÿÿ
+Fjavascript:S3504Ò=")Unexpected var, use let or const instead.(İŒÚ¤
+:javascript:S2310İ="Remove this assignment of "i".(¤©‰
+Kjavascript:S3504Š>")Unexpected var, use let or const instead.(´¢ïÜüÿÿÿÿ
+Fjavascript:S3504“>")Unexpected var, use let or const instead.(‘ÅØ¿
+Kjavascript:S3504ª>")Unexpected var, use let or const instead.(ıöş¼ÿÿÿÿÿ
+Kjavascript:S3504»>")Unexpected var, use let or const instead.(üòËÔşÿÿÿÿ
+Fjavascript:S3504í>")Unexpected var, use let or const instead.(õœòİ
+Ejavascript:S3504ù>")Unexpected var, use let or const instead.(“Ó
+}javascript:S6582ş>"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(ç¾Îæıÿÿÿÿ
+Fjavascript:S3504—?")Unexpected var, use let or const instead.(¾ÈË
+Fjavascript:S3504š?")Unexpected var, use let or const instead.(çıã
+Fjavascript:S3504®?")Unexpected var, use let or const instead.(ò§’‚
+Kjavascript:S3504¿?")Unexpected var, use let or const instead.(üòËÔşÿÿÿÿ
+[javascript:S1121Ô?">Extract the assignment of "elem[ name ]" from this expression.(µáÑ®
+Kjavascript:S3504ç?")Unexpected var, use let or const instead.(ğë¶Ñøÿÿÿÿ
+Kjavascript:S3504@")Unexpected var, use let or const instead.(‰ßÙúùÿÿÿÿ
+}javascript:S6582@"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(åĞıÍÿÿÿÿÿ
+gjavascript:S905@"FExpected an assignment or function call and instead saw an expression.(¦ó³§şÿÿÿÿ
+Kjavascript:S3504˜@")Unexpected var, use let or const instead.(‰ßÙúùÿÿÿÿ
+ajavascript:S905š@"FExpected an assignment or function call and instead saw an expression.(ö„ã!
+gjavascript:S905@"FExpected an assignment or function call and instead saw an expression.(¦ó³§şÿÿÿÿ
+Fjavascript:S3504¹@")Unexpected var, use let or const instead.(¿¯µ–
+}javascript:S6582¿@"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(¥õøıÿÿÿÿ
+Fjavascript:S3504Î@")Unexpected var, use let or const instead.(ù§ã¶
+Fjavascript:S3504ó@")Unexpected var, use let or const instead.(ù§ã¶
+Kjavascript:S3504 A")Unexpected var, use let or const instead.(¸¹ıÿÿÿÿÿ
+Kjavascript:S3504±A")Unexpected var, use let or const instead.(»ƒ¾ùÿÿÿÿ
+Kjavascript:S3504İA")Unexpected var, use let or const instead.(Ìàˆ…ÿÿÿÿÿ
+Kjavascript:S3504ïA")Unexpected var, use let or const instead.(úì›Éşÿÿÿÿ
+Kjavascript:S3504óA")Unexpected var, use let or const instead.(«›Öøûÿÿÿÿ
+Fjavascript:S3504“B")Unexpected var, use let or const instead.(È¢ •
+Kjavascript:S3504»B")Unexpected var, use let or const instead.(ùÄË…ûÿÿÿÿ
+Kjavascript:S3504ÈB")Unexpected var, use let or const instead.(Ñİøåşÿÿÿÿ
+Fjavascript:S3504ôB")Unexpected var, use let or const instead.(ÓÌŸš
+cjavascript:S1121şB"AExtract the assignment of "option.selected" from this expression.(Åø¥ûÿÿÿÿ
+`javascript:S1121–C">Extract the assignment of "elem.checked" from this expression.(×ØŸˆüÿÿÿÿ
+Kjavascript:S3504ªC")Unexpected var, use let or const instead.(ÿæØ°ıÿÿÿÿ
+Kjavascript:S3504³C")Unexpected var, use let or const instead.(öºšöşÿÿÿÿ
+Wjavascript:S1121ÿC"5Extract the assignment of "cur" from this expression.(Ò¸õ™şÿÿÿÿ
+xjavascript:S6582D"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(ÊßĞŞ
+Fjavascript:S3504ÇD")Unexpected var, use let or const instead.(‚‚ò­
+Kjavascript:S3504İD")Unexpected var, use let or const instead.(´”²Œûÿÿÿÿ
+Kjavascript:S3504ñD")Unexpected var, use let or const instead.(ì³Öüÿÿÿÿ
+Fjavascript:S3504úD")Unexpected var, use let or const instead.(Ñ€¦É
+Fjavascript:S3504ƒE")Unexpected var, use let or const instead.(Ñ€¦É
+Kjavascript:S3504‘E")Unexpected var, use let or const instead.(üÆµõûÿÿÿÿ
+Fjavascript:S3504“E")Unexpected var, use let or const instead.(’ÅÙş
+Kjavascript:S3504•E")Unexpected var, use let or const instead.(¹´¼¡ûÿÿÿÿ
+Ejavascript:S3504›E")Unexpected var, use let or const instead.(İ¡ó.
+Kjavascript:S3504¯E")Unexpected var, use let or const instead.(ûò²ÿÿÿÿÿ
+Kjavascript:S3504¶E")Unexpected var, use let or const instead.( ¨ëÈûÿÿÿÿ
+Fjavascript:S3504ŞE")Unexpected var, use let or const instead.(ÌşŠÍ
+Kjavascript:S3504ãE")Unexpected var, use let or const instead.(³ËöÅıÿÿÿÿ
+Fjavascript:S3504ŒF")Unexpected var, use let or const instead.(Î­÷
+Fjavascript:S3504F")Unexpected var, use let or const instead.(ÿÜÒ 
+Kjavascript:S3504˜F")Unexpected var, use let or const instead.(Íå¶êúÿÿÿÿ
+Kjavascript:S3504ªF")Unexpected var, use let or const instead.(ûò²ÿÿÿÿÿ
+Kjavascript:S3504ÙF")Unexpected var, use let or const instead.(ÍÈñ„úÿÿÿÿ
+djavascript:S1121åF"GExtract the assignment of "structure[ dataType ]" from this expression.(üœËõ
+djavascript:S1121éF"GExtract the assignment of "structure[ dataType ]" from this expression.(á÷˜ê
+Kjavascript:S3504óF")Unexpected var, use let or const instead.(Ü’£àúÿÿÿÿ
+Fjavascript:S3504÷F")Unexpected var, use let or const instead.(–ÌÌ…
+Kjavascript:S3504úF")Unexpected var, use let or const instead.(§âĞÿÿÿÿÿ
+\javascript:S1121‚G":Extract the assignment of "selected" from this expression.(ø˜è½şÿÿÿÿ
+Kjavascript:S3504G")Unexpected var, use let or const instead.(œçç¬øÿÿÿÿ
+Fjavascript:S3504¤G")Unexpected var, use let or const instead.(ØªÎº
+xjavascript:S6582³G"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(½Ğìñ
+Fjavascript:S3504İG")Unexpected var, use let or const instead.(±Êçˆ
+Kjavascript:S3504¥I")Unexpected var, use let or const instead.(£±¨„üÿÿÿÿ
+Fjavascript:S3504àI")Unexpected var, use let or const instead.(ÜÂ‡¹
+Kjavascript:S3504ˆJ")Unexpected var, use let or const instead.(Ÿ¸Öøÿÿÿÿ
+Kjavascript:S3504›J")Unexpected var, use let or const instead.(ƒÁÆ®ÿÿÿÿÿ
+Ijavascript:S1656¿J"''urlAnchor.href' is assigned to itself.(—€ÆŞşÿÿÿÿ
+ajavascript:S3358K"DExtract this nested ternary operation into an independent statement.(¶¬­Í
+Ejavascript:S3504áK")Unexpected var, use let or const instead.(ÏŸÛc
+Kjavascript:S3504÷L")Unexpected var, use let or const instead.(ª±²úüÿÿÿÿ
+Fjavascript:S3504šM")Unexpected var, use let or const instead.(’á¤‰
+Fjavascript:S3504©M")Unexpected var, use let or const instead.(ã¨Ôõ
+Fjavascript:S3504¾M")Unexpected var, use let or const instead.(ø¼Ñè
+Kjavascript:S3504ËM")Unexpected var, use let or const instead.(£¬©Ûüÿÿÿÿ
+Kjavascript:S3504ëM")Unexpected var, use let or const instead.(¥Û¢‡üÿÿÿÿ
+Fjavascript:S3504úM")Unexpected var, use let or const instead.(ü¡‰»
+Kjavascript:S3504€N")Unexpected var, use let or const instead.(ãÌ²ÿüÿÿÿÿ
+Kjavascript:S3504°O")Unexpected var, use let or const instead.(¾Ç¸Ãûÿÿÿÿ
+\javascript:S1121¶O":Extract the assignment of "callback" from this expression.(ã„¸Õüÿÿÿÿ
+Kjavascript:S3504ÍO")Unexpected var, use let or const instead.(•Ì«äúÿÿÿÿ
+Kjavascript:S3504ÔO")Unexpected var, use let or const instead.(¥µûÆÿÿÿÿÿ
+Fjavascript:S3504İO")Unexpected var, use let or const instead.(Â÷¸”
+Fjavascript:S3504²P")Unexpected var, use let or const instead.(ŒáßØ
+Kjavascript:S3504ÅP")Unexpected var, use let or const instead.(ïÄË™ÿÿÿÿÿ
+}javascript:S6582ãP"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(É¼ûÿÿÿÿ
+Kjavascript:S3504ïP")Unexpected var, use let or const instead.(™ÂšĞüÿÿÿÿ
+Kjavascript:S3504¸Q")Unexpected var, use let or const instead.(ñ‚Îøÿÿÿÿ
+Kjavascript:S3504şQ")Unexpected var, use let or const instead.(ÄÕ­®ûÿÿÿÿ
+Fjavascript:S3504R")Unexpected var, use let or const instead.(üæÎß
+Fjavascript:S3504ĞR")Unexpected var, use let or const instead.(¦˜Û¸
+Kjavascript:S3504İR")Unexpected var, use let or const instead.(…æµ×ıÿÿÿÿ
+Kjavascript:S3504ãR")Unexpected var, use let or const instead.(Ş©²´üÿÿÿÿ
+Kjavascript:S3504˜S")Unexpected var, use let or const instead.(õ©ß¸ıÿÿÿÿ
+Fjavascript:S3504œS")Unexpected var, use let or const instead.(›²
+Fjavascript:S3504ûS")Unexpected var, use let or const instead.(ßôø³
+qjavascript:S5850ûS"TGroup parts of the regex together to make the intended operator precedence explicit.(ßôø³
+Fjavascript:S3504‚T")Unexpected var, use let or const instead.(‘ŸûÎ
+Fjavascript:S3504²T")Unexpected var, use let or const instead.(³Òü
+Kjavascript:S3504ÙT")Unexpected var, use let or const instead.(ûò²ÿÿÿÿÿ

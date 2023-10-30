@@ -1,0 +1,37 @@
+
+u
+java:S1192$"_Define a constant instead of duplicating this literal "<script language='javascript'>" 3 times.(ÄµØ
+‰
+java:S1192&"sDefine a constant instead of duplicating this literal "window.location.href='teacherFile.jsp';</script>')" 3 times.(Îš³Õ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†”é
+g
+java:S2259)"LA "NullPointerException" could be thrown; "suidCourseName" is nullable here.(Ä£¡öüÿÿÿÿ
+{
+java:S1989"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(³æ£õùÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(‹¨¯¿
+T
+java:S1854"9Remove this useless assignment to local variable "ltuid".(Ìâ²øùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ë‡äæ
+y
+java:S1989"^Handle the following exception that could be thrown by "decode": UnsupportedEncodingException.(ğ®‚ûÿÿÿÿÿ
+E
+java:S1481"*Remove this unused "ltuid" local variable.(Ìâ²øùÿÿÿÿ
+f
+java:S1989$"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(¤†Åô
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ææºŠ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ÔñÌ‚úÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(º™¹‚ùÿÿÿÿ
+f
+java:S1989c"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+V	java:S125_"<This block of commented-out lines of code should be removed.(Ø²¥¨ùÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(š’™¢ùÿÿÿÿ
+Q	java:S125g"<This block of commented-out lines of code should be removed.(›êÄ¬
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(‹Ç’–
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(Íıí½ùÿÿÿÿ
+M	java:S106x"9Replace this use of System.out or System.err by a logger.(ßş”$
+g
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(÷¬ëÉøÿÿÿÿ
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(ö› ·

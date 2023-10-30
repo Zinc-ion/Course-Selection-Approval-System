@@ -1,0 +1,55 @@
+
+J
+java:S3740""/Provide the parametrized type for this generic.(Ûêİ¤ùÿÿÿÿ
+J
+java:S3740f"/Provide the parametrized type for this generic.(ê†Ëòşÿÿÿÿ
+K
+java:S3740‹"/Provide the parametrized type for this generic.(ê†Ëòşÿÿÿÿ
+K
+java:S3740ª"/Provide the parametrized type for this generic.(ê†Ëòşÿÿÿÿ
+j
+java:S1192s"TDefine a constant instead of duplicating this literal "applicationNameList" 3 times.(»ü®¨
+n
+java:S1192u"SDefine a constant instead of duplicating this literal "completeACNameList" 4 times.(æ¾ıÿÿÿÿ
+d
+java:S1192""IDefine a constant instead of duplicating this literal "pageInfo" 7 times.(Ûêİ¤ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†”é
+N
+java:S1854"8Remove this useless assignment to local variable "type".(áÛ
+S
+java:S1854"8Remove this useless assignment to local variable "suid".(ÖÃÙêùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÆòÎüÿÿÿÿ
+y
+java:S1989"^Handle the following exception that could be thrown by "decode": UnsupportedEncodingException.(ù¦Âşÿÿÿÿ
+D
+java:S1481")Remove this unused "suid" local variable.(ÖÃÙêùÿÿÿÿ
+?
+java:S1481")Remove this unused "type" local variable.(áÛ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ß’Ì»úÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(Àåúÿÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(œÍ®Ğ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(à®¸ô
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ò¸±ì
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(‘û¶¶
+S	java:S106("9Replace this use of System.out or System.err by a logger.(¾ù¾ªûÿÿÿÿ
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(ÒÓ¨k
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(İì€âşÿÿÿÿ
+k
+java:S19896"PHandle the following exception that could be thrown by "getWriter": IOException.(ø„Şºúÿÿÿÿ
+h
+java:S3776>"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(‹¨¯¿
+M	java:S106?"9Replace this use of System.out or System.err by a logger.(ˆÊør
+y
+java:S1989A"^Handle the following exception that could be thrown by "decode": UnsupportedEncodingException.(ù¦Âşÿÿÿÿ
+t
+java:S1989U"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(†øƒ¬øÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(ø…îÜşÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(šû†»üÿÿÿÿ
+k
+java:S1989~"PHandle the following exception that could be thrown by "getWriter": IOException.(ø„Şºúÿÿÿÿ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(¬éöšøÿÿÿÿ
+l
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ø„Şºúÿÿÿÿ
+T	java:S106¡"9Replace this use of System.out or System.err by a logger.(¡…§‹øÿÿÿÿ
+l
+java:S1989¼"PHandle the following exception that could be thrown by "getWriter": IOException.(ø„Şºúÿÿÿÿ

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<!--核心配置文件-->
+<configuration>
+    <!--引入外部配置文件让原来写在xml中写死的内容可以写到.properties文件中再引用进来-->
+    <properties resource="db.properties">
+        <property name="password" value="123"/>
+        <!--这不会用这里的密码，因为如果有两个字段重名时引入的外部文件优先级高于内部  -->
+    </properties>
+
+    <settings>
+<!--        <setting name="logImpl" value="STDOUT_LOGGING"/>  标准日志工厂-->
+<!--        log4j2日志-->
+        <setting name="logImpl" value="LOG4J2"/>
+    </settings>
+    
+    <typeAliases>
+        <!--        <typeAlias type="com.neu.zincIon.pojo.User" alias="User"/>  -->
+        <!--第一种给类起别名，这一就不用在mapper.xml中写全路径名了-->
+        <package name="com.neu.zincIon.pojo"/>
+        <!--第二种扫描包，包下javabean类别名自动生成为首字母小写的类名(大小写都可以用，但建议用小写，表明是扫描包得出的别名)        -->
+        <!--第三种在类前加注解-->
+    </typeAliases>
+
+    <plugins>
+        <!-- com.github.pagehelper为PageHelper类所在包名 -->
+        <plugin interceptor="com.github.pagehelper.PageInterceptor">
+            <!-- 指定分页插件使用哪种方言（用的那种数据库） -->
+            <property name="helperDialect" value="mysql"/>
+            <!-- 分页合理化 -->
+            <property name="reasonable" value="true"/>
+            <!-- 指定分页插件使用哪种方言（用的那种数据库） -->
+            <property name="helperDialect" value="mysql"/>
+        </plugin>
+    </plugins>
+
+    <environments default="development">
+
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="${driver}"/>
+                <!--url路径后记得加上/java_login（要访问的数据库名）?useSSL=true（安全链接）&amp;（&amp;是&在xml文件中的转义字符）useUnicode=true（使用Unicode）&amp;characterEncoding=UTF8（编码格式）&amp;serverTimezone=Asia/Shanghai(设置时区）-->
+                <property name="url" value="${urlname}"/>
+                <!--这里值value的命名不能是url，会与pom.xml里的冲突，得改个名-->
+                <property name="username" value="${uname}"/>
+                <!--这里也不能用username当value名-->
+                <property name="password" value="${password}"/>
+            </dataSource>
+        </environment>
+
+        <environment id="test">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="com.mysql.cj.jdbc.Driver"/>
+                <!--url路径后记得加上/java_login（要访问的数据库名）?useSSL=true（安全链接）&amp;（&amp;是&在xml文件中的转义字符）useUnicode=true（使用Unicode）&amp;characterEncoding=UTF8（编码格式）&amp;serverTimezone=Asia/Shanghai(设置时区）-->
+                <property name="url" value="jdbc:mysql://localhost:3306/java_login?useSSL=true&amp;useUnicode=true&amp;characterEncoding=UTF8&amp;serverTimezone=Asia/Shanghai"/>
+                <property name="username" value="root"/>
+                <property name="password" value="20021110xJmS"/>
+            </dataSource>
+        </environment>
+
+    </environments>
+
+    <!--每一个mapper.xml都需要在mybatis核心配置文件里注册！！-->
+    <mappers>
+        <mapper resource="com/neu/zincIon/mapper/UserMapper.xml"/>
+
+        <mapper resource="com/neu/zincIon/mapper/CourseMapper.xml"/>
+
+        <mapper resource="com/neu/zincIon/mapper/ApprovalMapper.xml"/>
+
+        <mapper resource="com/neu/zincIon/mapper/DynamicApprovalMapper.xml"/>
+<!--第一种，路径名注册-->
+<!--        <mapper class="com.neu.zincIon.mapper.UserMapper"/>-->
+<!--第二种，用mapper接口类名注册，此时xml文件要与mapper接口类同名且在同一包下-->
+    </mappers>
+
+</configuration>

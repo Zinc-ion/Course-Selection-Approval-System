@@ -1,0 +1,29 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Ûêİ¤ùÿÿÿÿ
+J
+java:S3740Y"/Provide the parametrized type for this generic.(ê†Ëòşÿÿÿÿ
+d
+java:S1192"IDefine a constant instead of duplicating this literal "pageInfo" 3 times.(Ûêİ¤ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†”é
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾úîı
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Àåúÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œÍ®Ğ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(à®¸ô
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ò¸±ì
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(‘û¶¶
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¾ù¾ªûÿÿÿÿ
+M	java:S106#"9Replace this use of System.out or System.err by a logger.(ÒÓ¨k
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(İì€âşÿÿÿÿ
+k
+java:S19890"PHandle the following exception that could be thrown by "getWriter": IOException.(ø„Şºúÿÿÿÿ
+[
+java:S1854:"@Remove this useless assignment to local variable "approvalList".(ÀÚÖøÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(šœñ½ûÿÿÿÿ
+t
+java:S1989C"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(†øƒ¬øÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(ø…îÜşÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(¼ÔÀÍúÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(ô¾‡÷
+k
+java:S1989f"PHandle the following exception that could be thrown by "getWriter": IOException.(ø„Şºúÿÿÿÿ

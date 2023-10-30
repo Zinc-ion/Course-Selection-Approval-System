@@ -1,0 +1,22 @@
+
+`	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†”é
+`
+java:S20955"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(ş‚ë™
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒâßƒÿÿÿÿÿ
+{
+java:S1989"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(³æ£õùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦Ò„‰
+\
+java:S19897"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ
+q
+java:S1989;"VHandle the following exception that could be thrown by "getOutputStream": IOException.(½€·şúÿÿÿÿ
+v
+java:S1989>"`Handle the following exception that could be thrown by "getBytes": UnsupportedEncodingException.(â«±
+g
+java:S1989@"LHandle the following exception that could be thrown by "write": IOException.(™³€şÿÿÿÿ
+b
+java:S1989A"LHandle the following exception that could be thrown by "close": IOException.(–Ê÷Å
+f
+java:S1989D"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(ğèÄŸùÿÿÿÿ

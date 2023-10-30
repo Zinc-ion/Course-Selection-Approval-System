@@ -1,0 +1,79 @@
+
+a
+java:S1192>"KDefine a constant instead of duplicating this literal "courseName" 4 times.(â‹ûÏ
+x
+java:S1488£"\Immediately return this expression instead of assigning it to the temporary variable "list".(ŸÌìÖÿÿÿÿÿ
+s
+java:S1488¶"\Immediately return this expression instead of assigning it to the temporary variable "list".(éØîĞ
+r
+java:S1488Ê"\Immediately return this expression instead of assigning it to the temporary variable "list".(À¦
+s
+java:S1488İ"\Immediately return this expression instead of assigning it to the temporary variable "list".(áÕ 
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°îåêûÿÿÿÿ
+^
+java:S2259{"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+^
+java:S2259."HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+_
+java:S2259—"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259ª"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259º"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+^
+java:S2259L"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259”"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+^
+java:S2259I"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+^
+java:S2259e"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259§"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+^
+java:S2259b"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+_
+java:S2259ä"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259Î"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+^
+java:S22591"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259½"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259á"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+^
+java:S2259~"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259Ñ"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+U
+java:S1118":Add a private constructor to hide the implicit public one.(µ†üªøÿÿÿÿ
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(ú«˜X
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(÷ËÜ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+:
+java:S11683"$Return an empty map instead of null.(¥¹ï
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(½¢¾†
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(êÖŠüÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(½¢¾†
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(êÖŠüÿÿÿÿ
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(İ”ş
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(Öë²öúÿÿÿÿ
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(İ”ş
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Öë²öúÿÿÿÿ
+O	java:S106“"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+O	java:S106¦"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+B
+java:S1168¬"+Return an empty collection instead of null.(¥¹ï
+O	java:S106¹"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+B
+java:S1168¿"+Return an empty collection instead of null.(¥¹ï
+O	java:S106Í"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+B
+java:S1168Ó"+Return an empty collection instead of null.(¥¹ï
+O	java:S106à"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+B
+java:S1168æ"+Return an empty collection instead of null.(¥¹ï

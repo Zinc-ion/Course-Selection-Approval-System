@@ -1,0 +1,23 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†”é
+u
+java:S1149'"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+{
+java:S1989"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(³æ£õùÿÿÿÿ
+f
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÊÊûøÿÿÿÿ
+y
+java:S1989 "^Handle the following exception that could be thrown by "decode": UnsupportedEncodingException.(ù¦Âşÿÿÿÿ
+t
+java:S1989%"^Handle the following exception that could be thrown by "decode": UnsupportedEncodingException.(‚¨ª¡
+N	java:S106."9Replace this use of System.out or System.err by a logger.(·È¾»
+f
+java:S1989="PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(Å¹Õâùÿÿÿÿ
+Q	java:S125B"<This block of commented-out lines of code should be removed.(÷ÉÅ‡
+D
+java:S1481F")Remove this unused "flag" local variable.(ŸÿáÑÿÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(Á³ ÷
+U	java:S899P";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(¯æõ–øÿÿÿÿ

@@ -1,0 +1,23 @@
+
+u
+java:S1192"_Define a constant instead of duplicating this literal "<script language='javascript'>" 4 times.(ÄµØ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†”é
+W
+java:S22591"BA "NullPointerException" could be thrown; "user" is nullable here.(¡¦ƒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ËĞÇÃşÿÿÿÿ
+f
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½é…äüÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(İÆĞò
+f
+java:S1989("PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(·ºÅÇ
+i
+java:S19898"SHandle the following exception that could be thrown by "sendRedirect": IOException.(°×
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ôÌö«ûÿÿÿÿ
+f
+java:S1989J"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(‚ğŒù
+f
+java:S1989O"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.( Ò€Ùøÿÿÿÿ

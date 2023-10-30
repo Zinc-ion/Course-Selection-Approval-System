@@ -1,0 +1,25 @@
+
+u
+java:S11928"_Define a constant instead of duplicating this literal "<script language='javascript'>" 3 times.(ÄµØ
+‡
+java:S11929"lDefine a constant instead of duplicating this literal "alert('æ­¤ç”¨æˆ·æ— æƒè®¿é—®è¯¥é¡µé¢ï¼');" 3 times.(ßÇğİüÿÿÿÿ
+}
+java:S1192;"bDefine a constant instead of duplicating this literal "æ­¤ç”¨æˆ·æ— æƒè®¿é—®è¯¥é¡µé¢ï¼" 3 times.(—ö–­ùÿÿÿÿ
+J
+java:S1066H"/Merge this if statement with the enclosing one.(ÚÄ©àûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ÀÉ¶
+U
+java:S1161":Add the "@Override" annotation above this method signature(Ü›ºÆıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÜˆÉª
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÑØÖö
+Q	java:S125"<This block of commented-out lines of code should be removed.(Àö×
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ŞÆ­Ûşÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(—ö–­ùÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(—ö–­ùÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(—ö–­ùÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(ØÃÁïøÿÿÿÿ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(ÄÌŞ¹
+P
+java:S1161c":Add the "@Override" annotation above this method signature(‚“¶î
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(ÿÏíÄşÿÿÿÿ

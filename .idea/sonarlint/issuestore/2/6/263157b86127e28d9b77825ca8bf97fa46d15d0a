@@ -1,0 +1,21 @@
+
+u
+java:S1192"_Define a constant instead of duplicating this literal "<script language='javascript'>" 3 times.(ÄµØ
+‰
+java:S1192"sDefine a constant instead of duplicating this literal "window.location.href='studentFile.jsp';</script>')" 3 times.(û÷çç
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†”é
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïû©Öûÿÿÿÿ
+u
+java:S1149!"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+f
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»·Èšùÿÿÿÿ
+y
+java:S1989"^Handle the following exception that could be thrown by "decode": UnsupportedEncodingException.(ù¦Âşÿÿÿÿ
+f
+java:S1989."PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+M	java:S1061"9Replace this use of System.out or System.err by a logger.(”¬£y
+f
+java:S19894"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(İÙã

@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âı³œûÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(›âş×
+
+java:S1130"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(ÊË±Ç
+Q	java:S125)"<This block of commented-out lines of code should be removed.(ÃÖ»
+Q	java:S125."<This block of commented-out lines of code should be removed.(”ğñô

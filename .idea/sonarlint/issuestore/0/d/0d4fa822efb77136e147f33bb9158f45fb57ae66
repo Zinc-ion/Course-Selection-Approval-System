@@ -1,0 +1,34 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Ûêİ¤ùÿÿÿÿ
+J
+java:S3740E"/Provide the parametrized type for this generic.(ê†Ëòşÿÿÿÿ
+d
+java:S1192"IDefine a constant instead of duplicating this literal "pageInfo" 3 times.(Ûêİ¤ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†”é
+N
+java:S1854"8Remove this useless assignment to local variable "tuid".(©âõÙ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²Ì¶Úıÿÿÿÿ
+y
+java:S1989"^Handle the following exception that could be thrown by "decode": UnsupportedEncodingException.(ÖÊä’şÿÿÿÿ
+?
+java:S1481")Remove this unused "tuid" local variable.(©âõÙ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Àåúÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œÍ®Ğ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(à®¸ô
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ò¸±ì
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(‘û¶¶
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(¾ù¾ªûÿÿÿÿ
+M	java:S106""9Replace this use of System.out or System.err by a logger.(ÒÓ¨k
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(İì€âşÿÿÿÿ
+k
+java:S1989/"PHandle the following exception that could be thrown by "getWriter": IOException.(ø„Şºúÿÿÿÿ
+[
+java:S18548"@Remove this useless assignment to local variable "approvalList".(ÀÚÖøÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(¦Èıç
+t
+java:S1989?"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(†øƒ¬øÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ø…îÜşÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(“ÜË
+k
+java:S1989Q"PHandle the following exception that could be thrown by "getWriter": IOException.(ø„Şºúÿÿÿÿ

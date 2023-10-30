@@ -1,0 +1,28 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ÛêÝ¤ùÿÿÿÿ
+J
+java:S3740P"/Provide the parametrized type for this generic.(ê†Ëòþÿÿÿÿ
+d
+java:S1192"IDefine a constant instead of duplicating this literal "pageInfo" 3 times.(ÛêÝ¤ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†”é
+N	java:S106"9Replace this use of System.out or System.err by a logger.(žÄ´½
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÀŽåúÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œÍ®Ð
+N	java:S106"9Replace this use of System.out or System.err by a logger.(à®¸ô
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ò¸±ì
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(‘û¶¶
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(¾ù¾ªûÿÿÿÿ
+M	java:S106""9Replace this use of System.out or System.err by a logger.(ÒÓ¨k
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(Ýì€âþÿÿÿÿ
+k
+java:S1989/"PHandle the following exception that could be thrown by "getWriter": IOException.(ø„Þºúÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ÐàŒ…
+t
+java:S1989>"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(†øƒ¬øÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ø…îÜþÿÿÿÿ
+V	java:S125E"<This block of commented-out lines of code should be removed.(×Å òÿÿÿÿÿ
+V	java:S125J"<This block of commented-out lines of code should be removed.(Ý´Ê©ÿÿÿÿÿ
+P	java:S125L"<This block of commented-out lines of code should be removed.(ìœœ4
+k
+java:S1989]"PHandle the following exception that could be thrown by "getWriter": IOException.(ø„Þºúÿÿÿÿ

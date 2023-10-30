@@ -1,0 +1,78 @@
+
+u
+java:S1192$"_Define a constant instead of duplicating this literal "<script language='javascript'>" 6 times.(ÄµØ
+‰
+java:S1192&"sDefine a constant instead of duplicating this literal "window.location.href='studentFile.jsp';</script>')" 4 times.(û÷çç
+a
+java:S1192+"FDefine a constant instead of duplicating this literal "UTF-8" 5 times.(ù¦Âşÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¾´¤ÿÿÿÿÿ
+]
+java:S2184Ì"FCast one of the operands of this multiplication operation to a "long".(–¢¹•
+b
+java:S2184Î"FCast one of the operands of this multiplication operation to a "long".(ç¯æåûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†”é
+^
+java:S22594"CA "NullPointerException" could be thrown; "cname" is nullable here.(ˆ€¤§øÿÿÿÿ
+e
+java:S2095€"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(‰–í
+v
+java:S1149³"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+S	java:S106"9Replace this use of System.out or System.err by a logger.(â§âàıÿÿÿÿ
+f
+java:S1989$"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(…äìİ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(´ÄÑâıÿÿÿÿ
+L
+java:S2696*"6Make the enclosing method "static" or remove this set.(ÛƒÅÅ
+y
+java:S1989+"^Handle the following exception that could be thrown by "decode": UnsupportedEncodingException.(ù¦Âşÿÿÿÿ
+i
+java:S1989>"SHandle the following exception that could be thrown by "sendRedirect": IOException.(³ŒÃ
+f
+java:S1989D"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(ãÙşÊ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(øÓ½ú
+f
+java:S1989P"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(ì‘Øóúÿÿÿÿ
+o
+java:S1989n"YHandle the following exception that could be thrown by "uploadParseRequest": IOException.(ÿ¾™ç
+f
+java:S1989q"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(ì‘Øóúÿÿÿÿ
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(Ÿß’¹
+y
+java:S1989~"^Handle the following exception that could be thrown by "decode": UnsupportedEncodingException.(ù¦Âşÿÿÿÿ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(¥Èšî
+T	java:S106"9Replace this use of System.out or System.err by a logger.(óûë…ÿÿÿÿÿ
+O	java:S106“"9Replace this use of System.out or System.err by a logger.(¸‡ÿ˜
+g
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+O	java:S106 "9Replace this use of System.out or System.err by a logger.(òä•˜
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(éªƒ–ÿÿÿÿÿ
+g
+java:S1989ª"PHandle the following exception that could be thrown by "getWriter": IOException.(ÄµØ
+T	java:S106­"9Replace this use of System.out or System.err by a logger.( Ò€Ùøÿÿÿÿ
+T	java:S106Å"9Replace this use of System.out or System.err by a logger.(¨‡ôŸıÿÿÿÿ
+n
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(øø‡ªüÿÿÿÿ
+O	java:S106İ"9Replace this use of System.out or System.err by a logger.(Ù«©Ê
+M
+java:S2696à"6Make the enclosing method "static" or remove this set.(ü§×—
+O	java:S106è"9Replace this use of System.out or System.err by a logger.(öƒ­ä
+T	java:S106î"9Replace this use of System.out or System.err by a logger.(ğÓ›×ùÿÿÿÿ
+B
+java:S1075õ"&Remove this hard-coded path-delimiter.(Ö£¹Üûÿÿÿÿ
+R
+java:S2696„"6Make the enclosing method "static" or remove this set.(ÀùÄşÿÿÿÿ
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(ö¼â•úÿÿÿÿ
+T	java:S106˜"9Replace this use of System.out or System.err by a logger.(ï»ı‚üÿÿÿÿ
+E
+java:S1481")Remove this unused "flag" local variable.(ŸÿáÑÿÿÿÿÿ
+O	java:S106¤"9Replace this use of System.out or System.err by a logger.(Á³ ÷
+V	java:S899¨";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+T	java:S106ª"9Replace this use of System.out or System.err by a logger.(¯æõ–øÿÿÿÿ
+i	java:S100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êœ˜÷üÿÿÿÿ
+E
+java:S1874°".Remove this use of "decode"; it is deprecated.(åÊ‘ã
+O	java:S106º"9Replace this use of System.out or System.err by a logger.(Ï¥ñ±

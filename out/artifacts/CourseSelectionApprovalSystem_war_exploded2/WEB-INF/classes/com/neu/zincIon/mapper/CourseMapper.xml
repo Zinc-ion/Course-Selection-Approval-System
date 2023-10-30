@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--这里要把https改成http下面写sql语句时才有代码提示，不知道为啥。。。-->
+
+<!--namespace绑定一个指定的Dao/Mapper接口，一定要对应名称-->
+<mapper namespace="com.neu.zincIon.mapper.CourseMapper">
+
+    <select id="getCourseList" resultType="course">
+        select * from java_login.tb_course
+    </select>
+
+    <select id="getCourseById" parameterType="String" resultType="course">
+        select * from java_login.tb_course
+        where courseName = #{courseName}
+    </select>
+
+    <insert id="addCourse" parameterType="course" >
+        insert into java_login.tb_course(courseName,begTime,ltuid,stuid) value(#{courseName},#{begTime},#{ltuid},#{stuid})
+    </insert>
+
+    <delete id="deleteCourseById" parameterType="String">
+        delete from java_login.tb_course where courseName = #{courseName}
+    </delete>
+
+    <update id="updateCourse" parameterType="course">
+        update java_login.tb_course
+        set begTime=#{begTime}, ltuid=#{ltuid}, stuid=#{stuid}
+        where courseName = #{courseName}
+    </update>
+
+
+
+</mapper>

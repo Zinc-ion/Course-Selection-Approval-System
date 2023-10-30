@@ -1,0 +1,514 @@
+
+E
+java:S3740A"/Provide the parametrized type for this generic.(ğÆÕÅ
+E
+java:S3740A"/Provide the parametrized type for this generic.(ğÆÕÅ
+E
+java:S3740d"/Provide the parametrized type for this generic.(ğÆÕÅ
+E
+java:S3740d"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740„"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740„"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740¥"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740¥"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740Ã"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740Ã"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740ä"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740ä"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740¦"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740¦"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740€"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740€"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740ˆ"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740ˆ"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740Ü"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740Ü"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740«"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740«"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740ÿ"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740ÿ"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740Î"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740Î"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740­"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740­"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740‡	"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740‡	"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740Å	"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740Å	"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740ÿ	"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740ÿ	"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740À
+"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740À
+"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740’"/Provide the parametrized type for this generic.(ğÆÕÅ
+F
+java:S3740’"/Provide the parametrized type for this generic.(ğÆÕÅ
+]
+java:S1192Ó"FDefine a constant instead of duplicating this literal "stuid" 3 times.(‹Âñ°
+o
+java:S1192½"SDefine a constant instead of duplicating this literal "è¿›å…¥é¦–ä½ç›¸ç­‰" 4 times.(¨ôÎÔşÿÿÿÿ
+k
+java:S1192¾"ODefine a constant instead of duplicating this literal "ä¿®æ”¹å‰çš„ap" 4 times.(˜ş‘Şùÿÿÿÿ
+p
+java:S1192¬"YDefine a constant instead of duplicating this literal "è¿›å…¥åŠ¨æ€å®¡æ‰¹åˆ¤æ–­" 4 times.(íôèÒ
+a
+java:S1192^"KDefine a constant instead of duplicating this literal "stateQuery" 9 times.(ìõÕ¡
+b
+java:S1192÷"FDefine a constant instead of duplicating this literal "ltuid" 3 times.(˜ÿé÷şÿÿÿÿ
+p
+java:S1192š"TDefine a constant instead of duplicating this literal "ç»“æŸ-ç”³è¯·é©³å›" 5 times.(«ÑØòşÿÿÿÿ
+c
+java:S1192ù"LDefine a constant instead of duplicating this literal "courseQuery" 6 times.(®àÂ™
+`
+java:S1192I"JDefine a constant instead of duplicating this literal "pageInfo" 19 times.(Å²œÓ
+a
+java:S1192ø"JDefine a constant instead of duplicating this literal "suidQuery" 6 times.(¹úçü
+h
+java:S1192«"QDefine a constant instead of duplicating this literal "DynamicApproval" 10 times.(çÌ´
+i
+java:S1192¸"MDefine a constant instead of duplicating this literal "ç§»é™¤apï¼š" 20 times.(˜ú¥‚ûÿÿÿÿ
+„
+java:S1192Ê"hDefine a constant instead of duplicating this literal "è¿›å…¥åŠ¨æ€å®¡æ‰¹åˆ¤æ–­ï¼Œç”³è¯·é©³å›" 4 times.( ¥›¸ûÿÿÿÿ
+t	java:S135­"YReduce the total number of break and continue statements in this loop to use at most one.(¨™Ÿûÿÿÿÿ
+t	java:S135€"YReduce the total number of break and continue statements in this loop to use at most one.(¨™Ÿûÿÿÿÿ
+o	java:S135Ğ"YReduce the total number of break and continue statements in this loop to use at most one.(À»¶Ş
+o	java:S135¯"YReduce the total number of break and continue statements in this loop to use at most one.(À»¶Ş
+K
+java:S1066º"/Merge this if statement with the enclosing one.(“™‰…üÿÿÿÿ
+F
+java:S1066Ğ"/Merge this if statement with the enclosing one.(ãë€„
+K
+java:S1066"/Merge this if statement with the enclosing one.(“™‰…üÿÿÿÿ
+F
+java:S1066£"/Merge this if statement with the enclosing one.(ãë€„
+F
+java:S1066â"/Merge this if statement with the enclosing one.(÷¿şë
+K
+java:S1066ı"/Merge this if statement with the enclosing one.(¿ªà¹şÿÿÿÿ
+F
+java:S1066Á"/Merge this if statement with the enclosing one.(÷¿şë
+K
+java:S1066Ü"/Merge this if statement with the enclosing one.(¿ªà¹şÿÿÿÿ
+F
+java:S1066–	"/Merge this if statement with the enclosing one.(ìêÉÃ
+F
+java:S1066Ô	"/Merge this if statement with the enclosing one.(ìêÉÃ
+F
+java:S1066
+"/Merge this if statement with the enclosing one.(±à‘
+F
+java:S1066Í
+"/Merge this if statement with the enclosing one.(±à‘
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¦ÔĞÿÿÿÿÿ
+{
+java:S1488€"dImmediately return this expression instead of assigning it to the temporary variable "approvalList".(Æñ¡à
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°îåêûÿÿÿÿ
+_
+java:S2259‡"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+_
+java:S2259¤"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+_
+java:S2259¡"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259•"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259÷"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+^
+java:S2259O"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+_
+java:S2259"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+^
+java:S2259r"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+_
+java:S2259±"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+_
+java:S2259İ"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+_
+java:S2259º"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259Ù"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+^
+java:S2259."HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+^
+java:S2259u"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259€"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+_
+java:S2259·"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+^
+java:S2259R"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259Š"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259ø"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+_
+java:S2259ğ"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+_
+java:S2259ó"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259Ò"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259à"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259Ï"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+_
+java:S2259Â"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+^
+java:S22591"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259§"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259¿"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+_
+java:S2259Ü"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259’"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+_
+java:S2259“"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259ƒ"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259´"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+_
+java:S2259ô"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(Äñ©›
+_
+java:S2259û"HA "NullPointerException" could be thrown; "sqlSession" is nullable here.(¦ãÊá
+P
+java:S1118":Add a private constructor to hide the implicit public one.(âˆÏ¢
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€”è‘ùÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(˜æó›ıÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+j
+java:S3252?"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(ÍÙŒüıÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+:
+java:S1168T"$Return an empty map instead of null.(¥¹ï
+j
+java:S3252b"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(»§¼½
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+:
+java:S1168w"$Return an empty map instead of null.(¥¹ï
+k
+java:S3252‚"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+N	java:S106†"9Replace this use of System.out or System.err by a logger.(¾±çQ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+;
+java:S1168•"$Return an empty map instead of null.(¥¹ï
+k
+java:S3252£"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+N	java:S106§"9Replace this use of System.out or System.err by a logger.(¾±çQ
+O	java:S106°"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+;
+java:S1168¶"$Return an empty map instead of null.(¥¹ï
+k
+java:S3252Á"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+T	java:S106Å"9Replace this use of System.out or System.err by a logger.(ü—ÒÚşÿÿÿÿ
+O	java:S106Î"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+;
+java:S1168Ô"$Return an empty map instead of null.(¥¹ï
+k
+java:S3252â"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+T	java:S106æ"9Replace this use of System.out or System.err by a logger.(ü—ÒÚşÿÿÿÿ
+O	java:S106ï"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+;
+java:S1168õ"$Return an empty map instead of null.(¥¹ï
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+B
+java:S1168Œ"+Return an empty collection instead of null.(¥¹ï
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(•Šõùÿÿÿÿ
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+B
+java:S1168©"+Return an empty collection instead of null.(¥¹ï
+T	java:S106¸"9Replace this use of System.out or System.err by a logger.(ÂÕºàüÿÿÿÿ
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+B
+java:S1168Ä"+Return an empty collection instead of null.(¥¹ï
+O	java:S106Õ"9Replace this use of System.out or System.err by a logger.(İ”ş
+O	java:S106Ü"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+T	java:S106ñ"9Replace this use of System.out or System.err by a logger.(ªÖæùÿÿÿÿ
+O	java:S106÷"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+B
+java:S1168—"+Return an empty collection instead of null.(¥¹ï
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÄŞü°ùÿÿÿÿ
+k
+java:S3252¤"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+T	java:S106¨"9Replace this use of System.out or System.err by a logger.(Á¹ŸÇùÿÿÿÿ
+O	java:S106¬"9Replace this use of System.out or System.err by a logger.(íôèÒ
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(ˆ†ê§øÿÿÿÿ
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(‘ÕÕşÿÿÿÿ
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+O	java:S106µ"9Replace this use of System.out or System.err by a logger.(ÂæÛŞ
+T	java:S106¸"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+T	java:S106½"9Replace this use of System.out or System.err by a logger.(¨ôÎÔşÿÿÿÿ
+T	java:S106¾"9Replace this use of System.out or System.err by a logger.(˜ş‘Şùÿÿÿÿ
+O	java:S106Á"9Replace this use of System.out or System.err by a logger.(Ÿ¹·
+N	java:S106É"9Replace this use of System.out or System.err by a logger.(á¹
+T	java:S106Ê"9Replace this use of System.out or System.err by a logger.(åòâùüÿÿÿÿ
+T	java:S106Î"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+U
+java:S1155×">Use isEmpty() to check whether the collection is empty or not.(·¶–ä
+O	java:S106İ"9Replace this use of System.out or System.err by a logger.(¶ëõú
+T	java:S106ß"9Replace this use of System.out or System.err by a logger.(ö£Ÿƒûÿÿÿÿ
+O	java:S106à"9Replace this use of System.out or System.err by a logger.(™¶Ø 
+O	java:S106è"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+;
+java:S1168î"$Return an empty map instead of null.(¥¹ï
+n
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(˜…¶†ıÿÿÿÿ
+k
+java:S3252ş"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(Á¹ŸÇùÿÿÿÿ
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(íôèÒ
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ˆ†ê§øÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‘ÕÕşÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ÂæÛŞ
+T	java:S106“"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+T	java:S106˜"9Replace this use of System.out or System.err by a logger.(¨ôÎÔşÿÿÿÿ
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(˜ş‘Şùÿÿÿÿ
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(Ÿ¹·
+N	java:S106¤"9Replace this use of System.out or System.err by a logger.(á¹
+T	java:S106¥"9Replace this use of System.out or System.err by a logger.(åòâùüÿÿÿÿ
+T	java:S106©"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+U
+java:S1155²">Use isEmpty() to check whether the collection is empty or not.(·¶–ä
+O	java:S106½"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+;
+java:S1168Ã"$Return an empty map instead of null.(¥¹ï
+O	java:S106Ò"9Replace this use of System.out or System.err by a logger.(ÛÎ¦›
+O	java:S106Ø"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+T	java:S106í"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+O	java:S106ó"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+B
+java:S1168ù"+Return an empty collection instead of null.(¥¹ï
+n
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(“ˆßìøÿÿÿÿ
+k
+java:S3252†"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(™ÿüşıÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(íôèÒ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(–ó™ÿÿÿÿÿ
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(öòìÿÿÿÿÿ
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(Ã¤ş®
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(¨ôÎÔşÿÿÿÿ
+T	java:S106¡"9Replace this use of System.out or System.err by a logger.(˜ş‘Şùÿÿÿÿ
+O	java:S106¤"9Replace this use of System.out or System.err by a logger.(Ÿ¹·
+O	java:S106¬"9Replace this use of System.out or System.err by a logger.(ƒšùÌ
+O	java:S106­"9Replace this use of System.out or System.err by a logger.(ÚÀİ
+T	java:S106±"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+U
+java:S1155º">Use isEmpty() to check whether the collection is empty or not.(·¶–ä
+O	java:S106Å"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+;
+java:S1168Ë"$Return an empty map instead of null.(¥¹ï
+n
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¯÷£óıÿÿÿÿ
+k
+java:S3252Ú"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+T	java:S106Ş"9Replace this use of System.out or System.err by a logger.(™ÿüşıÿÿÿÿ
+O	java:S106â"9Replace this use of System.out or System.err by a logger.(íôèÒ
+T	java:S106ã"9Replace this use of System.out or System.err by a logger.(–ó™ÿÿÿÿÿ
+T	java:S106è"9Replace this use of System.out or System.err by a logger.(öòìÿÿÿÿÿ
+T	java:S106ê"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+O	java:S106ë"9Replace this use of System.out or System.err by a logger.(Ã¤ş®
+T	java:S106î"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+T	java:S106ó"9Replace this use of System.out or System.err by a logger.(¨ôÎÔşÿÿÿÿ
+T	java:S106ô"9Replace this use of System.out or System.err by a logger.(˜ş‘Şùÿÿÿÿ
+O	java:S106÷"9Replace this use of System.out or System.err by a logger.(Ÿ¹·
+O	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(ƒšùÌ
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(ÚÀİ
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+U
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(·¶–ä
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+;
+java:S1168"$Return an empty map instead of null.(¥¹ï
+i
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Æú½­
+k
+java:S3252©"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+O	java:S106®"9Replace this use of System.out or System.err by a logger.(ªÎä“
+O	java:S106´"9Replace this use of System.out or System.err by a logger.(¬Ş¢Ñ
+T	java:S106½"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+U
+java:S1155Å">Use isEmpty() to check whether the collection is empty or not.(·¶–ä
+T	java:S106Ê"9Replace this use of System.out or System.err by a logger.( ¥›¸ûÿÿÿÿ
+T	java:S106Ó"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+U
+java:S1155Û">Use isEmpty() to check whether the collection is empty or not.(·¶–ä
+O	java:S106è"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+;
+java:S1168î"$Return an empty map instead of null.(¥¹ï
+n
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(¬ÀÄúüÿÿÿÿ
+k
+java:S3252ı"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ªÎä“
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(¬Ş¢Ñ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+U
+java:S1155˜">Use isEmpty() to check whether the collection is empty or not.(·¶–ä
+T	java:S106"9Replace this use of System.out or System.err by a logger.( ¥›¸ûÿÿÿÿ
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+U
+java:S1155®">Use isEmpty() to check whether the collection is empty or not.(·¶–ä
+O	java:S106»"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+;
+java:S1168Á"$Return an empty map instead of null.(¥¹ï
+n
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(Ù·Ûøüÿÿÿÿ
+k
+java:S3252Ì"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+O	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(¥Øò†
+T	java:S106Ø"9Replace this use of System.out or System.err by a logger.( ¥›¸ûÿÿÿÿ
+O	java:S106Ş"9Replace this use of System.out or System.err by a logger.(¸‡åİ
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+U
+java:S1155ñ">Use isEmpty() to check whether the collection is empty or not.(·¶–ä
+O	java:S106÷"9Replace this use of System.out or System.err by a logger.(ß«¢Û
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+U
+java:S1155ˆ">Use isEmpty() to check whether the collection is empty or not.(·¶–ä
+O	java:S106–"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+;
+java:S1168œ"$Return an empty map instead of null.(¥¹ï
+i
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(ñê²¥
+k
+java:S3252«"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+O	java:S106°"9Replace this use of System.out or System.err by a logger.(¥Øò†
+T	java:S106·"9Replace this use of System.out or System.err by a logger.( ¥›¸ûÿÿÿÿ
+O	java:S106½"9Replace this use of System.out or System.err by a logger.(¸‡åİ
+T	java:S106Ä"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+U
+java:S1155Ğ">Use isEmpty() to check whether the collection is empty or not.(·¶–ä
+O	java:S106Ö"9Replace this use of System.out or System.err by a logger.(ß«¢Û
+T	java:S106ß"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+U
+java:S1155ç">Use isEmpty() to check whether the collection is empty or not.(·¶–ä
+O	java:S106ô"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+;
+java:S1168ú"$Return an empty map instead of null.(¥¹ï
+i
+java:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ïå¦â
+k
+java:S3252…	"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+O	java:S106‰	"9Replace this use of System.out or System.err by a logger.(õ€ç­
+O	java:S106	"9Replace this use of System.out or System.err by a logger.(Ë¾¬‚
+T	java:S106™	"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+U
+java:S1155¢	">Use isEmpty() to check whether the collection is empty or not.(·¶–ä
+O	java:S106®	"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+;
+java:S1168´	"$Return an empty map instead of null.(¥¹ï
+n
+java:S3776·	"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(›ç¡§ùÿÿÿÿ
+k
+java:S3252Ã	"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+O	java:S106Ç	"9Replace this use of System.out or System.err by a logger.(õ€ç­
+O	java:S106Í	"9Replace this use of System.out or System.err by a logger.(Ë¾¬‚
+T	java:S106×	"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+U
+java:S1155à	">Use isEmpty() to check whether the collection is empty or not.(·¶–ä
+O	java:S106ë	"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+;
+java:S1168ñ	"$Return an empty map instead of null.(¥¹ï
+i
+java:S3776ö	"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ƒóˆŞ
+k
+java:S3252ı	"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+O	java:S106
+"9Replace this use of System.out or System.err by a logger.(•Û­Ê
+T	java:S106‡
+"9Replace this use of System.out or System.err by a logger.(óÂÖÙÿÿÿÿÿ
+T	java:S106‘
+"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+U
+java:S1155œ
+">Use isEmpty() to check whether the collection is empty or not.(·¶–ä
+O	java:S106©
+"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+;
+java:S1168¯
+"$Return an empty map instead of null.(¥¹ï
+n
+java:S3776²
+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ãù±ùÿÿÿÿ
+k
+java:S3252¾
+"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+O	java:S106Â
+"9Replace this use of System.out or System.err by a logger.(•Û­Ê
+T	java:S106Ç
+"9Replace this use of System.out or System.err by a logger.(óÂÖÙÿÿÿÿÿ
+T	java:S106Ğ
+"9Replace this use of System.out or System.err by a logger.(˜ú¥‚ûÿÿÿÿ
+U
+java:S1155Ù
+">Use isEmpty() to check whether the collection is empty or not.(·¶–ä
+O	java:S106â
+"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+;
+java:S1168è
+"$Return an empty map instead of null.(¥¹ï
+O	java:S106ø
+"9Replace this use of System.out or System.err by a logger.(¼ĞÕ‹
+O	java:S106ÿ
+"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+B
+java:S1168…"+Return an empty collection instead of null.(¥¹ï
+f
+java:S3252"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(ä§¶ß
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(È—¿½
+O	java:S106"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+;
+java:S1168£"$Return an empty map instead of null.(¥¹ï
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(å¾™ßûÿÿÿÿ
+O	java:S106¶"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+B
+java:S1168¼"+Return an empty collection instead of null.(¥¹ï
+İ
+java:S6541Ÿ"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 69 to 64, Complexity from 15 to 14, Nesting Level from 8 to 2, Number of Variables from 18 to 6.(ñê²¥
