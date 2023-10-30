@@ -393,8 +393,11 @@
       <workItem from="1698481118033" duration="1581000" />
       <workItem from="1698560129643" duration="831000" />
       <workItem from="1698560994454" duration="185000" />
+<<<<<<< HEAD
       <workItem from="1698561446105" duration="1079000" />
       <workItem from="1698564170919" duration="670000" />
+=======
+>>>>>>> 589aeca208017f92014cadeb587b05f64b74c63e
     </task>
     <task id="LOCAL-00001" summary="大二下web大作业&#10;审批流系统">
       <created>1693301351663</created>
@@ -403,6 +406,7 @@
       <option name="project" value="LOCAL" />
       <updated>1693301351663</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00002" summary="审批流系统v1.0">
       <created>1698561925876</created>
       <option name="number" value="00002" />
@@ -411,6 +415,9 @@
       <updated>1698561925876</updated>
     </task>
     <option name="localTasksCounter" value="3" />
+=======
+    <option name="localTasksCounter" value="2" />
+>>>>>>> 589aeca208017f92014cadeb587b05f64b74c63e
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,7 +428,11 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="大二下web大作业&#10;审批流系统" />
+<<<<<<< HEAD
     <MESSAGE value="审批流系统v1.0" />
     <option name="LAST_COMMIT_MESSAGE" value="审批流系统v1.0" />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="大二下web大作业&#10;审批流系统" />
+>>>>>>> 589aeca208017f92014cadeb587b05f64b74c63e
   </component>
 </project>
